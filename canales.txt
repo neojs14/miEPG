@@ -1,18 +1,606 @@
+1+1 International,11International
+24 Horas,24Horas
+24 horas Canarias,24horasCanarias
+24 horas Cataluña,24horasCatalua
+3CatInfo,3CatInfo
+3CatInfo Catalunya,3CatInfoCatalunya
+7teleValencia,7teleValencia
+8madrid TV,8madridTV
+À Punt,Punt
+Acción (Rakuten TV),AccinRakutenTV
+ACL Cornhole TV,ACLCornholeTV
+Acontra+,Acontra
+Al Jazeera English HD,AlJazeeraEnglishHD
+Alacantí TV,AlacantTV
+Alquiler 1,Alquiler1
+Alquiler HD,AlquilerHD
+AMC Anime,AMCAnime
+AMC Break,AMCBreak
+AMC+ Connect,AMCConnect
+AMC Crime,AMCCrime
+AMC HD,AMCHD
+Andalucía TV,AndalucaTV
+Anime Visión,AnimeVisin
+Anime Visión Classics,AnimeVisinClassics
+Antena 3 HD,Antena3HD
+Antena Motor,AntenaMotor
+Aquí no hay quién viva,Aqunohayquinviva
+Aragón TV,AragnTV
+Aragón TV Internacional,AragnTVInternacional
+Arirang TV HD,ArirangTVHD
+Atrescine,Atrescine
+Atreseries,Atreseries
+ATRESplayer PREMIUM,ATRESplayerPREMIUM
+AXN HD,AXNHD
+AXN Movies HD,AXNMoviesHD
+Baby TV,BabyTV
+Banyoles TV,BanyolesTV
+BBC Drama,BBCDrama
+BBC Food,BBCFood
+BBC History,BBCHistory
+BBC Top Gear,BBCTopGear
+BBC World News Europe HD,BBCWorldNewsEuropeHD
+Be Mad,BeMad
+beIN SPORTS en español,beINSPORTSenespaol
+beIN SPORTS XTRA ñ,beINSPORTSXTRA
+Betevé,Betev
+Betis TV,BetisTV
+Billiard TV,BilliardTV
+Bloomberg TV Europe,BloombergTVEurope
+Boing,Boing
+BOM Cine,BOMCine
+Bon Dia TV,BonDiaTV
+Boxing TV,BoxingTV
+BuenViaje,BuenViaje
+Calle 13 HD,Calle13HD
+Canal 10 Empordà,Canal10Empord
+Canal Blau,CanalBlau
+Canal Cocina,CanalCocina
+Canal de las Estrellas,CanaldelasEstrellas
+Canal Extremadura,CanalExtremadura
+Canal Extremadura SAT,CanalExtremaduraSAT
+Canal Hollywood HD,CanalHollywoodHD
+Canal Reus TV,CanalReusTV
+Canal Sur Andalucía,CanalSurAndaluca
+Canal Sur HD,CanalSurHD
+Canal Taronja Anoia,CanalTaronjaAnoia
+Canal Taronja Central,CanalTaronjaCentral
+Canal Terrassa,CanalTerrassa
+Canal Terres de l'Ebre,CanalTerresdelEbre
+Canal21 Ebre,Canal21Ebre
+Caracol TV,CaracolTV
+Caza y Pesca HD,CazayPescaHD
+Cazavisión,Cazavisin
+CGTN Documentary,CGTNDocumentary
+CGTN Español,CGTNEspaol
+Cine Español (Rakuten TV),CineEspaolRakutenTV
+Cine Feel Good,CineFeelGood
+Cines Verdi TV,CinesVerdiTV
+Clan,Clan
+Clásicos atresplayer,Clsicosatresplayer
+Classica HD,ClassicaHD
+CMM TV,CMMTV
+CNBC Europe HD,CNBCEuropeHD
+CNN en Español,CNNenEspaol
+CNN International Europe,CNNInternationalEurope
+Comedia atresplayer,Comediaatresplayer
+Comedias (Rakuten TV),ComediasRakutenTV
+Comedy Central HD,ComedyCentralHD
+Concert Channel,ConcertChannel
+Cosmo HD,CosmoHD
+Crimen (Rakuten TV),CrimenRakutenTV
+Cuatro HD,CuatroHD
+Cubavisión Internacional HD,CubavisinInternacionalHD
+Cuéntame,Cuntame
+Cugat Media,CugatMedia
+DARK,DARK
+Dark Rojo,DarkRojo
+DAZN 1 BAR,DAZN1BAR
+DAZN 1 HD,DAZN1HD
+DAZN 2 BAR,DAZN2BAR
+DAZN 2 HD,DAZN2HD
+DAZN 3 HD,DAZN3HD
+DAZN 4 HD,DAZN4HD
+DAZN Bundesliga,DAZNBundesliga
+DAZN Bundesliga 2,DAZNBundesliga2
+DAZN Bundesliga 3,DAZNBundesliga3
+DAZN Bundesliga 4,DAZNBundesliga4
+DAZN F1 BAR,DAZNF1BAR
+DAZN F1 HD,DAZNF1HD
+DAZN LaLiga 2 HD,DAZNLaLiga2HD
+DAZN LaLiga 3,DAZNLaLiga3
+DAZN LaLiga 4,DAZNLaLiga4
+DAZN LaLiga 5,DAZNLaLiga5
+DAZN LaLiga HD,DAZNLaLigaHD
+DAZN Liga F,DAZNLigaF
+DAZN Liga F 2,DAZNLigaF2
+DAZN Liga F 3,DAZNLigaF3
+DAZN MotoGP,DAZNMotoGP
+DAZN Premier League,DAZNPremierLeague
+DAZN Premier League 2,DAZNPremierLeague2
+DAZN Premier League 3,DAZNPremierLeague3
+DAZN Premier League 4,DAZNPremierLeague4
+DAZN Serie A,DAZNSerieA
+DAZN Serie A 2,DAZNSerieA2
+DBike,DBike
+DE | ARTE,DEARTE
+DE | Das Erste,DEDasErste
+DE | DAZN 1,DEDAZN1
+DE | DAZN 2,DEDAZN2
+DE | eSportsONE,DEeSportsONE
+DE | Eurosport 1,DEEurosport1
+DE | Eurosport 2,DEEurosport2
+DE | KiKA,DEKiKA
+DE | MagentaSport,DEMagentaSport
+DE | More Than Sports TV,DEMoreThanSportsTV
+DE | Motorvision+,DEMotorvision
+DE | MS Sport,DEMSSport
+DE | MTV,DEMTV
+DE | QVC,DEQVC
+DE | Rally TV,DERallyTV
+DE | Red Bull TV,DERedBullTV
+DE | Red Bull TV Motorsport,DERedBullTVMotorsport
+DE | RTL,DERTL
+DE | Sky Sport 1,DESkySport1
+DE | Sky Sport 10,DESkySport10
+DE | Sky Sport 2,DESkySport2
+DE | Sky Sport 3,DESkySport3
+DE | Sky Sport 4,DESkySport4
+DE | Sky Sport 5,DESkySport5
+DE | Sky Sport 6,DESkySport6
+DE | Sky Sport 7,DESkySport7
+DE | Sky Sport 8,DESkySport8
+DE | Sky Sport 9,DESkySport9
+DE | Sky Sport Austria 1,DESkySportAustria1
+DE | Sky Sport Austria 2,DESkySportAustria2
+DE | Sky Sport Austria 3,DESkySportAustria3
+DE | Sky Sport Austria 4,DESkySportAustria4
+DE | Sky Sport Austria 5,DESkySportAustria5
+DE | Sky Sport Austria 6,DESkySportAustria6
+DE | Sky Sport Austria 7,DESkySportAustria7
+DE | Sky Sport Austria 8,DESkySportAustria8
+DE | Sky Sport Bundesliga,DESkySportBundesliga
+DE | Sky Sport Bundesliga 1,DESkySportBundesliga1
+DE | Sky Sport Bundesliga 10,DESkySportBundesliga10
+DE | Sky Sport Bundesliga 2,DESkySportBundesliga2
+DE | Sky Sport Bundesliga 3,DESkySportBundesliga3
+DE | Sky Sport Bundesliga 4,DESkySportBundesliga4
+DE | Sky Sport Bundesliga 5,DESkySportBundesliga5
+DE | Sky Sport Bundesliga 6,DESkySportBundesliga6
+DE | Sky Sport Bundesliga 7,DESkySportBundesliga7
+DE | Sky Sport Bundesliga 8,DESkySportBundesliga8
+DE | Sky Sport Bundesliga 9,DESkySportBundesliga9
+DE | Sky Sport F1,DESkySportF1
+DE | Sky Sport Golf,DESkySportGolf
+DE | Sky Sport Kompakt 1,DESkySportKompakt1
+DE | Sky Sport Mix,DESkySportMix
+DE | Sky Sport News,DESkySportNews
+DE | Sky Sport Premier League,DESkySportPremierLeague
+DE | Sky Sport Tennis,DESkySportTennis
+DE | Sky Sport Top Event,DESkySportTopEvent
+DE | SPORT1,DESPORT1
+DE | SPORTDIGITAL FUSSBALL,DESPORTDIGITALFUSSBALL
+DE | Sportdigital1+,DESportdigital1
+DE | TRT Türk HD,DETRTTürkHD
+DE | ZDF,DEZDF
+Decasa,Decasa
+DejateTV,DejateTV
+DePelícula,DePelcula
+Deutsche W,DeutscheW
+Dhípica,Dhpica
+Discovery,Discovery
+Discovery Turbo,DiscoveryTurbo
+Disney Junior,DisneyJunior
+Divinity,Divinity
+Djazz,Djazz
+DKISS,DKISS
+DMAX,DMAX
+Dramas (Rakuten TV),DramasRakutenTV
+Dreamworks HD,DreamworksHD
+DSPORTS,DSPORTS
+DSPORTS+,DSPORTS
+DSPORTS 2,DSPORTS2
+DSPORTS Fight,DSPORTSFight
+EITB Basque,EITBBasque
+El 33 Catalunya,El33Catalunya
+El 9 TV,El9TV
+El club de la comedia,Elclubdelacomedia
+El Hormiguero,ElHormiguero
+El Toro TV,ElToroTV
+Elche 7 TV,Elche7TV
+EmpordaTV,EmpordaTV
+En Familia (Rakuten TV),EnFamiliaRakutenTV
+Energy,Energy
+Equipo de investigación,Equipodeinvestigacin
+Escapa TV,EscapaTV
+ESPN,ESPN
+ESPN 2,ESPN2
+ESPN 3,ESPN3
+ESPN 4,ESPN4
+ESPN Deportes,ESPNDeportes
+ESPN International,ESPNInternational
+Esport 3,Esport3
+Esport3 Catalunya,Esport3Catalunya
+ETB1,ETB1
+ETB2,ETB2
+ETB3,ETB3
+ETB4,ETB4
+ETV,ETV
+EuroNews,EuroNews
+Eurosport 1 HD,Eurosport1HD
+Eurosport 2,Eurosport2
+Eurosport 4K,Eurosport4K
+EWTN,EWTN
+Extreme Channel,ExtremeChannel
+Factoría de Ficción,FactoradeFiccin
+Fast&amp;FunBox,Fast&amp;FunBox
+Festival 4K,Festival4K
+FIFA+,FIFA
+Fight Box HD,FightBoxHD
+Fight Sports,FightSports
+Fight Time,FightTime
+FightSports,FightSports
+Flamenco Auditorio,FlamencoAuditorio
+Flooxer,Flooxer
+FoQ,FoQ
+FOX SPORTS,FOXSPORTS
+FOX SPORTS 2,FOXSPORTS2
+FOX SPORTS 3,FOXSPORTS3
+FR | ARTE,FRARTE
+FR | beIN SPORTS 1,FRbeINSPORTS1
+FR | beIN SPORTS 2,FRbeINSPORTS2
+FR | beIN SPORTS 3,FRbeINSPORTS3
+FR | beIN SPORTS MAX 10,FRbeINSPORTSMAX10
+FR | beIN SPORTS MAX 4,FRbeINSPORTSMAX4
+FR | beIN SPORTS MAX 5,FRbeINSPORTSMAX5
+FR | beIN SPORTS MAX 6,FRbeINSPORTSMAX6
+FR | beIN SPORTS MAX 7,FRbeINSPORTSMAX7
+FR | beIN SPORTS MAX 8,FRbeINSPORTSMAX8
+FR | beIN SPORTS MAX 9,FRbeINSPORTSMAX9
+FR | CANAL+ Premier League,FRCANALPremierLeague
+FR | CANAL+ Sport,FRCANALSport
+FR | DAZN 1,FRDAZN1
+FR | DAZN 2,FRDAZN2
+FR | DAZN 3,FRDAZN3
+FR | DAZN 4,FRDAZN4
+FR | DAZN 5,FRDAZN5
+FR | Eurosport 1,FREurosport1
+FR | Eurosport 2,FREurosport2
+FR | Eurosport 360 1,FREurosport3601
+FR | Eurosport 360 2,FREurosport3602
+FR | Eurosport 360 3,FREurosport3603
+FR | Eurosport 360 4,FREurosport3604
+FR | Eurosport 360 5,FREurosport3605
+FR | Eurosport 360 6,FREurosport3606
+FR | Eurosport 360 7,FREurosport3607
+FR | Eurosport 360 8,FREurosport3608
+FR | FRANCE 24,FRFRANCE24
+FR | I24 NEWS,FRI24NEWS
+FR | INFOSPORT+,FRINFOSPORT
+FR | L`ÉQUIPE,FRLQUIPE
+FR | MTV,FRMTV
+France 2,France2
+France 24 (en Francais),France24enFrancais
+France 5,France5
+Gametoon,Gametoon
+Garage TV,GarageTV
+Global Telenovelas,GlobalTelenovelas
+Global Tendencias,GlobalTendencias
+GOL,GOL
+Gol Classics,GolClassics
+GolStadium,GolStadium
+GolStadium BAR,GolStadiumBAR
+Gulli,Gulli
+HBO Max Avances,HBOMaxAvances
+Historia,Historia
+Historia y Vida,HistoriayVida
+Horse TV,HorseTV
+Huelva TV,HuelvaTV
+IB3 TV Illes Balears,IB3TVIllesBalears
+Iberalia caza,Iberaliacaza
+Iberalia pesca,Iberaliapesca
+Iberalia TV,IberaliaTV
+iConcerts,iConcerts
+Imás TV,ImsTV
+Infinity Comedia,InfinityComedia
+Infinity En la calle,InfinityEnlacalle
+Infinity+ LQSA,InfinityLQSA
+Infinity Top Series,InfinityTopSeries
+Infinity Viajes,InfinityViajes
+Información TV,InformacinTV
+Inquietos atresplayer,Inquietosatresplayer
+interalmería TV,interalmeraTV
+Kidz,Kidz
+La 1 Canarias,La1Canarias
+La 1 Cataluña,La1Catalua
 La 1 HD,La1HD
 La 2,La2
-Antena 3 HD,Antena3HD
-Cuatro HD,CuatroHD
-Telecinco HD,TelecincoHD
+La 2 Canarias,La2Canarias
+La 2 Cataluña,La2Catalua
+La 7 Ávila,La7vila
+La 7 Bierzo,La7Bierzo
+La 7 Burgos,La7Burgos
+La 7 CyL,La7CyL
+La 7 León,La7Len
+La 7 Murcia,La7Murcia
+La 7 Palencia,La7Palencia
+La 7 Rioja,La7Rioja
+La 7 Salamanca,La7Salamanca
+La 7 Segovia,La7Segovia
+La 7 Soria,La7Soria
+La 7 Valladolid,La7Valladolid
+La 7 Zamora,La7Zamora
+La 8 Ávila,La8vila
+La 8 Bierzo,La8Bierzo
+La 8 Burgos,La8Burgos
+La 8 León,La8Len
+La 8 Palencia,La8Palencia
+La 8 Salamanca,La8Salamanca
+La 8 Segovia,La8Segovia
+La 8 Soria,La8Soria
+La 8 Valladolid,La8Valladolid
+La 8 Zamora,La8Zamora
+La Ocho Mediterráneo,LaOchoMediterrneo
+La Otra,LaOtra
+La Promesa,LaPromesa
+La Revuelta,LaRevuelta
 La Sexta HD,LaSextaHD
-Movistar Plus+ HD,MovistarPlusHD
-M+ Vamos HD,MVamosHD
-M+ Estrenos HD,MEstrenosHD
-M+ Hits HD,MHitsHD
-M+ Originales HD,MOriginalesHD
-M+ Documentales HD,MDocumentalesHD
-M+ Clásicos HD,MClsicosHD
+LALIGA Inside,LALIGAInside
+LaLiga TV BAR 2,LaLigaTVBAR2
+LaLiga TV BAR 3,LaLigaTVBAR3
+LaLiga TV BAR 4,LaLigaTVBAR4
+LaLiga TV BAR 5,LaLigaTVBAR5
+LaLiga TV BAR HD,LaLigaTVBARHD
+LaLiga TV Hypermotion 2,LaLigaTVHypermotion2
+LaLiga TV Hypermotion 3,LaLigaTVHypermotion3
+LaLiga TV Hypermotion HD,LaLigaTVHypermotionHD
+Levante TV,LevanteTV
+Libertad Digital TV,LibertadDigitalTV
+Liga de Campeones BAR 2,LigadeCampeonesBAR2
+Lleida TV,LleidaTV
+Lolly Kids,LollyKids
+Los Conciertos de Radio 3,LosConciertosdeRadio3
+Love the Planet,LovethePlanet
+Love Wine,LoveWine
 M+ Acción HD,MAccinHD
-M+ Comedia HD,MComediaHD
-M+ Drama HD,MDramaHD
-M+ Indie HD,MIndieHD
 M+ Cine Español,MCineEspaol
+M+ Clásicos HD,MClsicosHD
+M+ Comedia HD,MComediaHD
+M+ Cómic,MCmic
+M+ Deportes 2 HD,MDeportes2HD
+M+ Deportes 3,MDeportes3
+M+ Deportes 4,MDeportes4
+M+ Deportes 5,MDeportes5
+M+ Deportes 6,MDeportes6
+M+ Deportes 7,MDeportes7
+M+ Deportes 8,MDeportes8
+M+ Deportes HD,MDeportesHD
+M+ Documentales HD,MDocumentalesHD
+M+ Drama HD,MDramaHD
+M+ Ellas Vamos HD,MEllasVamosHD
+M+ Estrenos HD,MEstrenosHD
+M+ Golf 2 HD,MGolf2HD
+M+ Golf HD,MGolfHD
+M+ Hits HD,MHitsHD
+M+ Indie HD,MIndieHD
+M+ LaLiga 2 HD,MLaLiga2HD
+M+ LaLiga 2 HDR,MLaLiga2HDR
+M+ LaLiga 3 HD,MLaLiga3HD
+M+ LaLiga 4,MLaLiga4
+M+ LaLiga 5,MLaLiga5
+M+ LaLiga 6,MLaLiga6
+M+ LaLiga HD,MLaLigaHD
+M+ LaLiga HDR,MLaLigaHDR
+M+ Liga de Campeones 10,MLigadeCampeones10
+M+ Liga de Campeones 11,MLigadeCampeones11
+M+ Liga de Campeones 12,MLigadeCampeones12
+M+ Liga de Campeones 13,MLigadeCampeones13
+M+ Liga de Campeones 14,MLigadeCampeones14
+M+ Liga de Campeones 15,MLigadeCampeones15
+M+ Liga de Campeones 16,MLigadeCampeones16
+M+ Liga de Campeones 17,MLigadeCampeones17
+M+ Liga de Campeones 18,MLigadeCampeones18
+M+ Liga de Campeones 19,MLigadeCampeones19
+M+ Liga de Campeones 2 HD,MLigadeCampeones2HD
+M+ Liga de Campeones 2 HDR,MLigadeCampeones2HDR
+M+ Liga de Campeones 3 HD,MLigadeCampeones3HD
+M+ Liga de Campeones 4,MLigadeCampeones4
+M+ Liga de Campeones 5,MLigadeCampeones5
+M+ Liga de Campeones 6,MLigadeCampeones6
+M+ Liga de Campeones 7,MLigadeCampeones7
+M+ Liga de Campeones 8,MLigadeCampeones8
+M+ Liga de Campeones 9,MLigadeCampeones9
+M+ Liga de Campeones HD,MLigadeCampeonesHD
+M+ Liga de Campeones HDR,MLigadeCampeonesHDR
+M+ Originales HD,MOriginalesHD
+M+ PopUp,MPopUp
+M+ PopUp 2,MPopUp2
+M+ San Sebastián,MSanSebastin
+M+ Vamos HD,MVamosHD
+M+ Wimbledon UHD,MWimbledonUHD
+M6,M6
+Matchroom Boxing,MatchroomBoxing
+Mega,Mega
+Mezzo,Mezzo
+Mezzo Live HD,MezzoLiveHD
+Moto ADV,MotoADV
+Motorvision,Motorvision
+Motorvision TV,MotorvisionTV
+Movistar Plus+ 2 HD,MovistarPlus2HD
+Movistar Plus+ HD,MovistarPlusHD
+mtmad,mtmad
+MTV 00s,MTV00s
+MTV Classic,MTVClassic
+MTV España,MTVEspaa
+MTV Live,MTVLive
+Multicine atresplayer,Multicineatresplayer
+MyPadel TV,MyPadelTV
+MyTime Movie Network (Rakuten TV),MyTimeMovieNetworkRakutenTV
+Nat Geo Wild HD,NatGeoWildHD
+National Geographic HD,NationalGeographicHD
+NatureTime,NatureTime
+Náutica TV,NuticaTV
+Nautical Channel,NauticalChannel
+Navarra TV,NavarraTV
+Navarra TV 2,NavarraTV2
+Negocios TV,NegociosTV
+Neox,Neox
+NFL Network,NFLNetwork
+Nick JR,NickJR
+Nickelodeon HD,NickelodeonHD
+NickMusic,NickMusic
+Nova,Nova
+Nuestra Tele Internacional,NuestraTeleInternacional
+Odisea,Odisea
+Olot TV,OlotTV
+Onda Algeciras TV,OndaAlgecirasTV
+Onda Cádiz TV,OndaCdizTV
+Onetoro,Onetoro
+Padel 24h,Padel24h
+Paramount Network,ParamountNetwork
+PDC Darts,PDCDarts
+Películas Románticas (Rakuten TV),PelculasRomnticasRakutenTV
+Pelis Top (Rakuten TV),PelisTopRakutenTV
+Penedès TV,PenedsTV
+Playboy TV,PlayboyTV
+PLL Network,PLLNetwork
+Popular TV Cantabria,PopularTVCantabria
+Popular TV Región de Murcia,PopularTVRegindeMurcia
+PowerSports World,PowerSportsWorld
+Primera Federación,PrimeraFederacin
+Pro TV,ProTV
+PT | Canal 11,PTCanal11
+PT | DAZN 1,PTDAZN1
+PT | DAZN 2,PTDAZN2
+PT | DAZN 3,PTDAZN3
+PT | DAZN 4,PTDAZN4
+PT | DAZN 5,PTDAZN5
+PT | Eurosport 1 HD,PTEurosport1HD
+PT | Eurosport 2 HD,PTEurosport2HD
+PT | Fight Box,PTFightBox
+PT | MCM TOP HD,PTMCMTOPHD
+PT | Mezzo Live HD,PTMezzoLiveHD
+PT | MTV HD,PTMTVHD
+PT | Sport TV +,PTSportTV
+PT | Sport TV 1,PTSportTV1
+PT | Sport TV 2,PTSportTV2
+PT | Sport TV 3,PTSportTV3
+PT | Sport TV 4,PTSportTV4
+PT | Sport TV 5,PTSportTV5
+PT | Sport TV 6,PTSportTV6
+PT | Sport TV NBA,PTSportTVNBA
+PT | Sporting TV HD,PTSportingTVHD
+PT | TRACE Urban HD,PTTRACEUrbanHD
+PTV Granada,PTVGranada
+PTV Linares,PTVLinares
+PTV Málaga,PTVMlaga
+Punt 3,Punt3
+QWest Mix,QWestMix
+Real Madrid TV,RealMadridTV
+Red Bull TV,RedBullTV
+Red Bull TV (Rakuten TV),RedBullTVRakutenTV
+REKTV,REKTV
+Runtime Acción,RuntimeAccin
+Runtime Cine y Series,RuntimeCineySeries
+RunTime Clásicos,RunTimeClsicos
+Runtime Comedia,RuntimeComedia
+Runtime Crimen,RuntimeCrimen
+RunTime Familia,RunTimeFamilia
+Runtime Romance,RuntimeRomance
+Runtime Series,RuntimeSeries
+Runtime Thriller-Terror,RuntimeThriller-Terror
+Saber y ganar,Saberyganar
+Sangre Fría,SangreFra
+SELEKT,SELEKT
+Sky News International,SkyNewsInternational
+Sky Sports 16,SkySports16
+SkyShowtime,SkyShowtime
+Sol Música,SolMsica
+Somos,Somos
+Somos Cine,SomosCine
+Squirrel TV,SquirrelTV
+STAR Channel HD,STARChannelHD
+Star TVE HD,StarTVEHD
+Sundance TV,SundanceTV
+Surf Channel,SurfChannel
+SX3,SX3
+SX3 Catalunya,SX3Catalunya
+SyFy HD,SyFyHD
+TAC12,TAC12
+TCM HD,TCMHD
+Tele Elx,TeleElx
+Telecinco HD,TelecincoHD
+Teledeporte,Teledeporte
+Telemadrid,Telemadrid
+Telemadrid Internacional,TelemadridInternacional
+Telesur HD,TelesurHD
+Televisió de Badalona,TelevisideBadalona
+Televisió de l'Hospitalet,TelevisidelHospitalet
+Televisió del Ripollès,TelevisidelRipolls
+Ten,Ten
+Tennis Channel,TennisChannel
+Thrillers (Rakuten TV),ThrillersRakutenTV
+tlnovelas,tlnovelas
+Todo Crimen (Rakuten TV),TodoCrimenRakutenTV
+Toon Goggles,ToonGoggles
+Top Barça,TopBarça
+Torolé TV,TorolTV
+TPA Asturias,TPAAsturias
+TPA7 Asturias,TPA7Asturias
+TPA8 Asturias,TPA8Asturias
+TR3CE,TR3CE
+TRACE Latina,TRACELatina
+TRACE Sports Stars,TRACESportsStars
+TRACE Urban,TRACEUrban
+TRECE,TRECE
+TUDN (Estados Unidos),TUDNEstadosUnidos
+TUDN (México),TUDNMxico
+TV Berguedà,TVBergued
+TV Canaria,TVCanaria
+TV Chile,TVChile
+TV Costa Brava,TVCostaBrava
+TV Girona,TVGirona
+TV Sabadell - Vallès,TVSabadell-Valls
+TV3,TV3
+TV3 Catalunya,TV3Catalunya
+TV3CAT Catalunya,TV3CATCatalunya
+TV5 Monde Europe HD,TV5MondeEuropeHD
+TVG,TVG
+TVG Europa HD,TVGEuropaHD
+TVG2,TVG2
+tvmataró,tvmatar
+TVR Rioja,TVRRioja
+TyC Sports,TyCSports
+UBEAT,UBEAT
+UCL,UCL
+UK | Premier Sports 1,UKPremierSports1
+UK | Premier Sports 2,UKPremierSports2
+UK | Sky Sport Action,UKSkySportAction
+UK | Sky Sport Arena,UKSkySportArena
+UK | Sky Sport Cricket,UKSkySportCricket
+UK | Sky Sport F1,UKSkySportF1
+UK | Sky Sport Football,UKSkySportFootball
+UK | Sky Sport Golf,UKSkySportGolf
+UK | Sky Sport Main Event,UKSkySportMainEvent
+UK | Sky Sport Mix,UKSkySportMix
+UK | Sky Sport News,UKSkySportNews
+UK | Sky Sport Premier League,UKSkySportPremierLeague
+UK | Sky Sport Racing,UKSkySportRacing
+UK | Sky Sport Tennis,UKSkySportTennis
+UK | TNT Sports 1,UKTNTSports1
+UK | TNT Sports 2,UKTNTSports2
+UK | TNT Sports 3,UKTNTSports3
+UK | TNT Sports 4,UKTNTSports4
+UK | TNT Sports Ultimate,UKTNTSportsUltimate
+Unbeaten,Unbeaten
+Vallès Visió,VallsVisi
+Vamos BAR,VamosBAR
+Vamos BAR 2,VamosBAR2
+VE PLUS TV,VEPLUSTV
+Veo7,Veo7
+VinTV,VinTV
+Vivid TV,VividTV
+Vivir con gatos,Vivircongatos
+Vivir con perros,Vivirconperros
+Warner TV HD,WarnerTVHD
+XTRM,XTRM
