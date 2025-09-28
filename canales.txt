@@ -15,18 +15,3 @@ M+ Acción HD,MAccinHD
 M+ Comedia HD,MComediaHD
 M+ Drama HD,MDramaHD
 M+ Indie HD,MIndieHD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
