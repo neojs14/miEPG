@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/09/2025 00:16" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 28/09/2025 00:47" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La1HD">
     <display-name>La1HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -67,6 +67,10 @@
   <channel id="MIndieHD">
     <display-name>MIndieHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
+  </channel>
+  <channel id="MCineEspaol">
+    <display-name>MCineEspaol</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <programme start="20250927100000 +0200" stop="20250927103000 +0200" channel="La1HD">
     <title lang="es">Audiencia abierta</title>
@@ -19963,5 +19967,1172 @@
 · Música: Jed Palmer.
 · Producción: Liz Watts, Emile Sherman.
 · Productora: See-Saw Films, Scarlett Pictures.</desc>
+  </programme>
+  <programme start="20250927062700 +0200" stop="20250927073000 +0200" channel="MCineEspaol">
+    <title lang="es">Todo sobre Almodóvar</title>
+    <desc lang="es">Documentales,Biografía | 2023 | +TP | *6.0/10
+· Pedro Almodóvar se ha convertido en el hombre más importante del cine español y "Todo sobre Almodóvar" nos muestra por qué.
+· País: Francia
+· Dirección: Catherine Ulmer Lopez.
+· Guion: Catherine Ulmer Lopez.
+· Productora: 13 Productions.</desc>
+  </programme>
+  <programme start="20250927073000 +0200" stop="20250927090500 +0200" channel="MCineEspaol">
+    <title lang="es">Vacas</title>
+    <desc lang="es">Cine,Drama | 1992 | +18 | *6.4/10
+· A lo largo de tres generaciones, las relaciones de rivalidad y pasión entre las familias de dos caseríos vascos marcan el ritmo vital de un valle guipuzcoano. En este escenario, la violencia y la locura transcurren ante la mirada vacía de las vacas.
+· País: España
+· Dirección: Julio Medem.
+· Reparto: Pilar Bardem, Emma Suárez, Carmelo Gómez, Karra Elejalde, Ana Torrent, Txema Blasco, Klara Badiola.
+· Guion: Julio Medem, Michel Gaztambide.
+· Música: Alberto Iglesias.
+· Producción: José Luis Olaizola, Fernando de Garcillán.
+· Productora: Sogetel.</desc>
+  </programme>
+  <programme start="20250927090500 +0200" stop="20250927110700 +0200" channel="MCineEspaol">
+    <title lang="es">Tierra</title>
+    <desc lang="es">Cine,Drama | 1996 | +16 | *6.2/10
+· Ángel, un fumigador solitario, es llamado para que acabe con una plaga de cochinillas que está provocando que el vino tenga un extraño sabor. Al llegar a la zona, el hombre es testigo de cómo un rayo mata a varias ovejas y deja moribundo a un pastor.
+· País: España
+· Dirección: Julio Medem.
+· Reparto: Carmelo Gómez, Emma Suárez, Karra Elejalde, Silke, Nancho Novo, Txema Blasco, Ane Sánchez, Juan José Suárez, Ricardo Amador, César Vea, Pepe Viyuela, Alicia Agut, Miguel Palenzuela, Ana Sánchez, José Amador, Adelfina Serrano, Vicente Haro Marón, Cesare Vea.
+· Guion: Julio Medem.
+· Música: Alberto Iglesias.
+· Producción: Fernando de Garcillán.
+· Productora: Lolafilms, Sogepaq, Sogetel.</desc>
+  </programme>
+  <programme start="20250927110700 +0200" stop="20250927124300 +0200" channel="MCineEspaol">
+    <title lang="es">Hola, ¿estás sola?</title>
+    <desc lang="es">Cine,Comedia dramática | 1995 | +13 | *6.0/10
+· Dos chicas de 20 años con un pasado común caracterizado por la falta de afecto deciden emprender un viaje.
+· País: España
+· Dirección: Icíar Bollaín.
+· Reparto: Silke, Candela Peña, Álex Angulo, Elena Irureta, Arcadi Levin.
+· Guion: Icíar Bollaín, Julio Medem.
+· Música: Bernardo Bonezzi.
+· Producción: Fernando Colomo, Beatriz De la Gándara.
+· Productora: Fernando Colomo Producciones Cinematográficas, S.L..</desc>
+  </programme>
+  <programme start="20250927124300 +0200" stop="20250927145400 +0200" channel="MCineEspaol">
+    <title lang="es">8</title>
+    <desc lang="es">Cine,Drama romántico | 2025 | +7 | *7.0/10
+· En la madrugada del 14 de abril de 1931, justo cuando se proclama la II República, Octavio y Adela llegan al mundo en dos pueblos vecinos de la sierra de Madrid. Desde ese momento, sus destinos están unidos.
+· País: España
+· Dirección: Julio Medem.
+· Reparto: Ana Rujas, Javier Rey, Tamar Novas, Loreto Mauleón, Carla Díaz, María Isasi, Mateo Medina.
+· Guion: Julio Medem.
+· Música: Lucas Vidal.
+· Producción: Álvaro Longoria, Rodrigo Espinel.
+· Productora: Barbazul la película, A.I.E., Morena Films S.L.</desc>
+  </programme>
+  <programme start="20250927145400 +0200" stop="20250927150200 +0200" channel="MCineEspaol">
+    <title lang="es">Mi amiga Eva. Los juegos del amor</title>
+    <desc lang="es">Cine,Programa de cine | 2025 | +7 | *6.0/10
+· Mi amiga Eva. Los juegos del amor.
+· País: España</desc>
+  </programme>
+  <programme start="20250927150200 +0200" stop="20250927163700 +0200" channel="MCineEspaol">
+    <title lang="es">Los aitas</title>
+    <desc lang="es">Cine,Comedia dramática | 2025 | +7 | *6.6/10
+· Unos padres ochenteros, tan infantiles como cero implicados en la educación de sus hijas, tienen que encargarse de llevarlas a un campeonato de gimnasia rítmica en Berlín, algo para lo que no están preparados.
+· País: Bélgica y España
+· Dirección: Borja Cobeaga.
+· Reparto: Quim Gutiérrez, Juan Diego Botto, Iñaki Ardanaz, Mikel Losada, Laura Weissmahr, Ramón Barea.
+· Guion: Borja Cobeaga, Valentina Viso.
+· Música: Aránzazu Calleja.
+· Producción: Valérie Delpierre, Nahikari Ipiña.
+· Productora: Despadres, A.I.E., Inicia Films.</desc>
+  </programme>
+  <programme start="20250927163700 +0200" stop="20250927180600 +0200" channel="MCineEspaol">
+    <title lang="es">Con quién viajas</title>
+    <desc lang="es">Cine,Comedia | 2021 | +13 | *6.8/10
+· Julián es el conductor de un coche compartido que va a hacer un viaje desde Madrid a Cieza con otros tres desconocidos... o no tan desconocidos.
+· País: España
+· Dirección: Hugo Martín Cuervo.
+· Reparto: Salva Reina, Ana Polvorosa, Pol Monen, Andrea Duro.
+· Guion: Hugo Martín Cuervo.
+· Producción: Raúl Berdones, Adolfo Blanco, Pablo Jimeno.
+· Productora: A Contracorriente Films, Neón Producciones, Álamo Producciones Audiovisuales.</desc>
+  </programme>
+  <programme start="20250927180600 +0200" stop="20250927193600 +0200" channel="MCineEspaol">
+    <title lang="es">La pasajera</title>
+    <desc lang="es">Cine,Terror | 2021 | +16 | *6.2/10
+· Un hombre y tres mujeres viajan en una furgoneta y atropellan, sin quererlo, a una turista que caminaba de noche en una carretera. Deciden llevarla al hospital, pero notan un comportamiento extraño.
+· País: España
+· Dirección: Raúl Cerezo, Fernando González Gómez.
+· Reparto: Paula Gallego, Cristina Alcázar, Yao Yao, Cecilia Suárez, Ramiro Blas.
+· Guion: Luis Sánchez Polack.
+· Productora: S.G. Producciones cinematográficas, La Dalia Films, Eye Slice Pictures, Persons Films.</desc>
+  </programme>
+  <programme start="20250927193600 +0200" stop="20250927211700 +0200" channel="MCineEspaol">
+    <title lang="es">El olivo</title>
+    <desc lang="es">Cine,Drama | 2016 | +7 | *7.6/10
+· Para Alma, una joven de 20 años que trabaja en una granja de pollos de Canet, en el interior de la provincia de Castellón, lo más importante es su abuelo, un anciano que dejó de hablar hace años.
+· País: España
+· Dirección: Icíar Bollaín.
+· Reparto: Anna Castillo, Javier Gutiérrez, Manuel Cucala, Pep Ambròs, Miguel Ángel Aladren, Carme Pla, Ana Isabel Mena.
+· Guion: Paul Laverty.
+· Música: Pascal Gaigne.
+· Producción: Michael Weber, Juan Gordon.
+· Productora: Morena Films S.L, The Match Factory.</desc>
+  </programme>
+  <programme start="20250927211700 +0200" stop="20250927220000 +0200" channel="MCineEspaol">
+    <title lang="es">Estrellas del Festival de San Sebastián 2025</title>
+    <desc lang="es">Cine,Programa de cine | 2025 | +7 | *6.2/10
+· Desde la 73ª edición del Festival de San Sebastián os mostramos todas las estrellas que han pasado por el certamen, 9 días de cine con Jennifer Lawrence, Álvaro Morte, Bárbara Lennie, Eduard Fernández, Alba Flores, Antonio de la Torre o Leiva.
+· País: España
+· Presenta: Cristina Teva.</desc>
+  </programme>
+  <programme start="20250927220000 +0200" stop="20250928000400 +0200" channel="MCineEspaol">
+    <title lang="es">Modelo 77</title>
+    <desc lang="es">Cine,Thriller | 2022 | +16 | *6.6/10
+· Barcelona 1977. Manuel es un joven contable encarcelado por desfalco y pendiente de un juicio con una pena desmesurada, junto a su compañero de celda se unirá a COPEL, un colectivo de presos que cambió la historia del sistema penitenciario español.
+· País: España
+· Dirección: Alberto Rodríguez.
+· Reparto: Miguel Herrán, Javier Gutiérrez, Jesús Carroza, Catalina Sopelana, Fernando Tejero, Xavi Sáez, Alfonso Lara, Víctor Castilla, Iñigo de la Iglesia, Íñigo Aranburu, Javier Lago.
+· Guion: Rafael Cobos, Alberto Rodríguez.
+· Música: Julio de la Rosa.
+· Producción: Domingo Corral, Jose Antonio Félez, Gervasio Iglesias.
+· Productora: Atípica Films.</desc>
+  </programme>
+  <programme start="20250928000400 +0200" stop="20250928015000 +0200" channel="MCineEspaol">
+    <title lang="es">Tuno negro</title>
+    <desc lang="es">Cine,Drama | 2001 | +18 | *6.2/10
+· Un asesino psicópata se infiltra en una tuna universitaria y elige sus víctimas a través de internet.
+· País: España
+· Dirección: Pedro L. Barbero, Vicente J. Martín.
+· Reparto: Silke, Jorge Sanz, Fele Martínez, Maribel Verdú, Eusebio Poncela, Aitor Mazo.
+· Guion: Vicente J. Martín, Pedro L. Barbero.
+· Música: Roque Baños, Álex Martínez.
+· Producción: Andrés Vicente Gómez.
+· Productora: Lolafilms.</desc>
+  </programme>
+  <programme start="20250928015000 +0200" stop="20250928033700 +0200" channel="MCineEspaol">
+    <title lang="es">Muertos de risa</title>
+    <desc lang="es">Cine,Comedia | 1999 | +TP | *6.2/10
+· Después de veinte años de éxito en discotecas, teatros y programas de televisión, Bruno y Nino, una pareja de humoristas que comparte a partes iguales el odio y los triunfos y que han formado el tándem perfecto, dirimen sus diferencias a tiro limpio.
+· País: España
+· Dirección: Álex de la Iglesia.
+· Reparto: Santiago Segura, El Gran Wyoming, Álex Angulo, Carla Hidalgo, Eduardo Gómez, Jesús Bonilla, María Asquerino, José María Íñigo, Uri Geller.
+· Guion: Jorge Guerricaechevarría, Álex de la Iglesia.
+· Música: Roque Baños.
+· Producción: Andrés Vicente Gómez.
+· Productora: Lolafilms S.A..</desc>
+  </programme>
+  <programme start="20250928033700 +0200" stop="20250928052000 +0200" channel="MCineEspaol">
+    <title lang="es">El tiempo de la felicidad</title>
+    <desc lang="es">Cine,Comedia dramática | 1997 | +16 | *6.2/10
+· Verano de 1970: una atípica familia española pasa las vacaciones en Ibiza, donde el padre, actor, está rodando una película. Entre amores, desamores, ilusiones y proyectos pasan el verano que cambiará sus vidas.
+· País: España
+· Dirección: Manuel Iborra.
+· Reparto: Verónica Forqué, Antonio Resines, Pepón Nieto, Silvia Abascal, María Adánez, Carlos Fuentes, Liberto Rabal, Fele Martínez, Clara Sanchis.
+· Guion: Manuel Iborra, Santiago Pujol, Pau Romeva.
+· Música: Elliot Goldenthal.
+· Producción: Rafael Díaz-Salgado, José Luis Olaizola.
+· Productora: Sogetel, Central de Producciones Audiovisuales.</desc>
+  </programme>
+  <programme start="20250928052000 +0200" stop="20250928070000 +0200" channel="MCineEspaol">
+    <title lang="es">Carne trémula</title>
+    <desc lang="es">Cine,Drama | 1997 | +18 | *6.2/10
+· Los nervios, una pistola y un par de policías juegan una mala pasada a Víctor; una bala perdida cambiará el destino de todos...
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Javier Bardem, Liberto Rabal, Francesca Neri.
+· Productora: El Deseo.</desc>
+  </programme>
+  <programme start="20250928070000 +0200" stop="20250928080400 +0200" channel="MCineEspaol">
+    <title lang="es">Todo sobre Almodóvar</title>
+    <desc lang="es">Documentales,Biografía | 2023 | +TP | *6.0/10
+· Pedro Almodóvar se ha convertido en el hombre más importante del cine español y "Todo sobre Almodóvar" nos muestra por qué.
+· País: Francia
+· Dirección: Catherine Ulmer Lopez.
+· Guion: Catherine Ulmer Lopez.
+· Productora: 13 Productions.</desc>
+  </programme>
+  <programme start="20250928080400 +0200" stop="20250928095900 +0200" channel="MCineEspaol">
+    <title lang="es">Tacones lejanos</title>
+    <desc lang="es">Cine,Drama | 1991 | +18 | *6.2/10
+· Los reproches y las heridas del pasado marcan el reencuentro de Rebeca con su madre, la conocida cantante Becky del Páramo.
+· País: España y Francia
+· Dirección: Pedro Almodóvar.
+· Reparto: Victoria Abril, Miguel Bosé, Javier Bardem, Marisa Paredes, Míriam Díaz Aroca, Bibi Andersen.
+· Guion: Pedro Almodóvar.
+· Música: Ryuichi Sakamoto.
+· Productora: TF1 Films Production, El Deseo, CiBy 2000, Le Studio Canal+.</desc>
+  </programme>
+  <programme start="20250928095900 +0200" stop="20250928114900 +0200" channel="MCineEspaol">
+    <title lang="es">La flor de mi secreto</title>
+    <desc lang="es">Cine,Drama | 1995 | +13 | *6.4/10
+· Leo Macías es una escritora de novela rosa que atraviesa una grave crisis matrimonial. Ésto afecta especialmente a su trabajo.
+· País: España y Francia
+· Dirección: Pedro Almodóvar.
+· Reparto: Imanol Arias, Nancho Novo, Juan Echanove, Marisa Paredes, Jordi Mollà, Kiti Mánver, Rossy De Palma, Gloria Muñoz, Manuela Vargas, Chus Lampreave, Joaquín Cortés, Juan José Otegui, Alicia Agut, Marisol Muriel, Carme Elias.
+· Guion: Pedro Almodóvar.
+· Música: Alberto Iglesias.
+· Producción: Pedro Almodóvar, Esther García.
+· Productora: El Deseo, CiBy 2000.</desc>
+  </programme>
+  <programme start="20250928114900 +0200" stop="20250928133200 +0200" channel="MCineEspaol">
+    <title lang="es">Todo sobre mi madre</title>
+    <desc lang="es">Cine,Melodrama | 1999 | +18 | *6.4/10
+· Manuela, una enfermera de la Organización Nacional de Transplantes, ve cómo su hijo Esteban, al que estaba muy unida, muere al intentar conseguir un autógrafo de la diva Huma Rojo.
+· País: España y Francia
+· Dirección: Pedro Almodóvar.
+· Reparto: Cecilia Roth, Marisa Paredes, Penélope Cruz, Candela Peña, Antonia San Juan, Rosa Maria Sardà, Fernando Fernán Gómez, Toni Cantó.
+· Guion: Pedro Almodóvar.
+· Música: Alberto Iglesias.
+· Producción: Agustín Almodóvar.
+· Productora: El Deseo.</desc>
+  </programme>
+  <programme start="20250928133200 +0200" stop="20250928153400 +0200" channel="MCineEspaol">
+    <title lang="es">La piel que habito</title>
+    <desc lang="es">Cine,Drama | 2011 | +16 | *6.2/10
+· Tras la muerte de su mujer abrasada en un accidente, el Dr Legard consagra su vida a la sintesis de una piel con la que hubiera podido salvarla. Cuando lo consigue, no dudará en traspasar una puerta hasta ahora vedada: la transgénesis con humanos.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet, Roberto Álamo, Eduard Fernández, José Luis Gómez.
+· Guion: Pedro Almodóvar.
+· Productora: El Deseo.</desc>
+  </programme>
+  <programme start="20250928153400 +0200" stop="20250928163100 +0200" channel="MCineEspaol">
+    <title lang="es">Pedro x Javis T1 · Amigas y madres</title>
+    <desc lang="es">Entretenimiento | 2025 | +16 | *5.8/10
+· Las mujeres son fundamentales en el cine y la vida de Pedro Almodóvar, el director reflexiona sobre la importancia de su amistad en su vida y en sus personajes femeninos y sobre la profunda influencia de su madre.
+· País: España
+· Dirección: Javier Calvo, Javier Ambrossi, Guillermo Mendo.</desc>
+  </programme>
+  <programme start="20250928163100 +0200" stop="20250928181000 +0200" channel="MCineEspaol">
+    <title lang="es">Los pequeños amores</title>
+    <desc lang="es">Cine,Drama | 2024 | +7 | *6.2/10
+· Teresa cambia sus planes de vacaciones para ayudar a su madre, que ha sufrido un pequeño accidente. Madre e hija pasarán juntas un verano de lo más sofocante, en el que no conseguirán ponerse de acuerdo ni en las cosas más triviales.
+· País: España
+· Dirección: Celia Rico Clavellino.
+· Reparto: María Vázquez, Adriana Ozores, Aimar Vega, David Aguilar.
+· Guion: Celia Rico Clavellino.
+· Producción: Sandra Tapia, Ibón Cormenzana.
+· Productora: Viracocha Films, A.I.E., Arcadia Motion Pictures.</desc>
+  </programme>
+  <programme start="20250928181000 +0200" stop="20250928200900 +0200" channel="MCineEspaol">
+    <title lang="es">Las chicas de la estación</title>
+    <desc lang="es">Cine,Drama | 2024 | +16 | *7.2/10
+· Jara quiere celebrar su cumpleaños junto a Álex y Miranda en el concierto de su artista preferida. Las tres necesitan dinero y apenas tienen opciones para conseguirlo. Pero conocen a una chica que hace tiempo les viene ofreciendo ganar dinero fácil.
+· País: España
+· Dirección: Juana Macías.
+· Reparto: Julieta Tobío, Salua Hadra, María Steelman, Arantxa Aranguren, La Fanny.
+· Guion: Isa Sánchez.
+· Música: Isabel Royán.
+· Productora: Feelgood Media.</desc>
+  </programme>
+  <programme start="20250928200900 +0200" stop="20250928220000 +0200" channel="MCineEspaol">
+    <title lang="es">Un mundo normal</title>
+    <desc lang="es">Cine,Comedia | 2020 | +13 | *6.4/10
+· Tras una trágica muerte familiar, Ernesto, un director de teatro separado, inconformista y caótico, se embarca en una aventura junto a su hija, una universitaria acostumbrada a cuidar de él y apoyar sus locuras.
+· País: España
+· Dirección: Achero Mañas.
+· Reparto: Ernesto Alterio, Gala Amyach, Ruth Díaz, Pau Durà, Magüi Mira, Óscar Pastor, Raquel Villarejo, Abdelatif Hwidar, Joan Daròs.
+· Guion: Achero Mañas.
+· Música: Vanessa Garde.
+· Producción: Gerardo Herrero, Pedro Pastor.
+· Productora: Tornasol Films, Voramar Films, Last Will, Crea SGR.</desc>
+  </programme>
+  <programme start="20250928220000 +0200" stop="20250928233100 +0200" channel="MCineEspaol">
+    <title lang="es">Un lío de millones</title>
+    <desc lang="es">Cine,Comedia | 2024 | +7 | *6.6/10
+· Bego y Agustín, un matrimonio jubilado, idean un arriesgado plan para reunirse con sus hijos distanciados fingiendo haber ganado la lotería y ser millonarios, esperando que así regresen a casa.
+· País: España
+· Dirección: Susan Béjar.
+· Reparto: Gracia Olayo, Antonio Resines, Clara Lago, Alberto Olmo, Lucía Caraballo.
+· Guion: Ángela Armero.
+· Música: Vanessa Garde.
+· Productora: Tornasol Media.</desc>
+  </programme>
+  <programme start="20250928233100 +0200" stop="20250928234200 +0200" channel="MCineEspaol">
+    <title lang="es">Espacio M+ T2 · Un lío de millones. Humor y reflexión</title>
+    <desc lang="es">Entretenimiento | 2024 | +7 | *6.2/10
+· Los protagonistas y la directora de esta divertida comedia nos dan todas las claves para disfrutar y reflexionar con “Un lio de millones”. En ella, unos padres que se sienten abandonados por sus hijos, idean un plan para que vuelvan a casa por Navidad.
+· País: España
+· Productora: Movistar+.</desc>
+  </programme>
+  <programme start="20250928234200 +0200" stop="20250929011100 +0200" channel="MCineEspaol">
+    <title lang="es">+Cuñados</title>
+    <desc lang="es">Cine,Comedia | 2024 | +13 | *6.0/10
+· Dos años después de la detención de Alicia y su socio portugués, los cuñados viven tranquilamente blanqueando el dinero que (literalmente) les cayó del cielo. Sin embargo, cuando la novia del portugués aparece en busca de venganza, los líos comienzan.
+· País: España
+· Dirección: Luis Avilés Baquero.
+· Reparto: Xosé A. Touriñán, Miguel de Lira, Federico Pérez Rey, María Vázquez, Eva Fernández, Iolanda Muíños, Mela Casal.
+· Guion: Araceli Gonda.
+· Música: Iván Laxe, Santi Jul.
+· Productora: Portocabo TV.</desc>
+  </programme>
+  <programme start="20250929011100 +0200" stop="20250929025200 +0200" channel="MCineEspaol">
+    <title lang="es">Fin de fiesta</title>
+    <desc lang="es">Cine,Comedia dramática | 2024 | +16 | *7.2/10
+· Un emigrante africano busca refugio en el cobertizo de una casa señorial andaluza. Un día es descubierto por la señora, una pija que vive de las rentas, y después por su asistenta, pero ambas se lo ocultan a la otra, hasta que se destapa el secreto.
+· País: Bélgica y España
+· Dirección: Elena Manrique.
+· Reparto: Sonia Barba, Beatriz Arjona, Edith Martínez.</desc>
+  </programme>
+  <programme start="20250929025200 +0200" stop="20250929043600 +0200" channel="MCineEspaol">
+    <title lang="es">Los futbolísimos</title>
+    <desc lang="es">Cine,Comedia | 2018 | +TP | *7.6/10
+· Paco (alias 'Pakete' por su 'afición' a fallar penaltis) tiene 11 años, juega en el Sotoalto Fútbol Club y vive en un pueblo donde nunca ha pasado nada... hasta ahora.
+· País: España
+· Dirección: Miguel Ángel Lamata.
+· Reparto: Joaquín Reyes, Carmen Ruiz, Toni Acosta, Antonio Pagudo, Norma Ruiz, Julio Bohigas-Couto, Milene Mayer, Marcos Milara, Iker Castiñeira, Samantha Jaramillo, Roberto Rodríguez, Martina Cabrera, Daniel Crego, Jorge Usón, Gerald B. Fillmore.
+· Guion: Roberto Santiago, Pablo Fernández Vázquez, Miguel Ángel Lamata, Álvaro Ron.
+· Música: Fernando Velázquez.
+· Producción: Fernando de Miguel, Gustavo Ferrada, Mercedes Gamero, Mikel Lejarza, José Alberto Sánchez.
+· Productora: Atresmedia Cine, Chester Producciones, Wandermoon, Los futbolísimos.</desc>
+  </programme>
+  <programme start="20250929043600 +0200" stop="20250929061000 +0200" channel="MCineEspaol">
+    <title lang="es">Cómo sobrevivir a una despedida</title>
+    <desc lang="es">Cine,Comedia | 2015 | +16 | *6.4/10
+· Nora, Marta, Tania, Gisela y Mateo (una más) no tienen la vida que esperaban tener cuando eran adolescentes. Pero no se rinden ante la cruda realidad y deciden organizarle una despedida de soltera inolvidable a Gisela, la más responsable del grupo.
+· País: España
+· Dirección: Manuela Burló Moreno.
+· Reparto: Natalia de Molina, Úrsula Corberó, María Hervás, Celia de Molina, Brays Efe, Roger Berruezo, Javier Bódalo, Jose Lamuño, Jim Arnold.
+· Guion: Manuela Burló Moreno, Susana López Rubio, Núria Valls.
+· Música: Víctor Reyes.
+· Producción: Núria Valls, Mikel Lejarza, Mercedes Gamero, Adrián Guerra.
+· Productora: Nostromo Pictures, Antena 3 Films.</desc>
+  </programme>
+  <programme start="20250929061000 +0200" stop="20250929070000 +0200" channel="MCineEspaol">
+    <title lang="es">La explosión de las cómicas T1 E1</title>
+    <desc lang="es">Entretenimiento | 2023 | +7 | *6.6/10
+· Cómicas de diversas generaciones, desde las forjadas en clubs de comedia a las nacidas directamente de internet, analizan el panorama actual de la comedia. Voces femeninas hablan de su emergencia en un oficio tradicionalmente masculino.
+· País: España
+· Guion: Inma de Blas.
+· Producción: Miguel Balanzategui.
+· Productora: Movistar+.</desc>
+  </programme>
+  <programme start="20250929070000 +0200" stop="20250929084100 +0200" channel="MCineEspaol">
+    <title lang="es">Dragonkeeper: Guardiana de dragones</title>
+    <desc lang="es">Cine,Animación | 2024 | +TP | *6.2/10
+· En los tiempos oscuros, cuando los nigromantes amenazaban el mundo, humanos y dragones forjaron un poderoso vínculo que permitió derrotar a las fuerzas del mal. Poco después, el emperador, envidioso del poder de esa alianza, dio caza a los dragones...
+· País: China y España
+· Dirección: Salvador Simó, Li Jianping.
+· Guion: Pablo Castrillo, Ignacio Ferreras, Rosanna Cecchini, Wang Xianping.
+· Música: Arturo Cardelús.
+· Producción: Larry Levene, Fu Ruoqing.
+· Productora: Guardián de dragones, A.I.E., China Film Animation.</desc>
+  </programme>
+  <programme start="20250929084100 +0200" stop="20250929102000 +0200" channel="MCineEspaol">
+    <title lang="es">Menudas piezas</title>
+    <desc lang="es">Cine,Comedia | 2024 | +13 | *6.4/10
+· A Candela le han sido infiel, la han despedido de su trabajo en un colegio privado y ahora no le queda más remedio que pedir ayuda a su hermana y a su padre, esos a los que lleva años mirando por encima del hombro.
+· País: España
+· Dirección: Nacho G. Velilla.
+· Reparto: Alexandra Jiménez, Luis Callejo, Francesc Orella, María Adánez, Kiko Bena, Verónica Senra, Rocío Velayos, Pablo Louazel.
+· Guion: David S. Olivas, Marta Sánchez Guillén, Nacho G. Velilla.
+· Música: Juanjo Javierre.
+· Producción: Ghislain Barrois, Álvaro Augustín.
+· Productora: Telecinco Cinema, Menudas piezas, A.I.E..</desc>
+  </programme>
+  <programme start="20250929102000 +0200" stop="20250929120100 +0200" channel="MCineEspaol">
+    <title lang="es">¿Quién es quién?</title>
+    <desc lang="es">Cine,Comedia | 2024 | +7 | *6.2/10
+· Los Fuentes salta por los aires el día que la benjamina del grupo, Valentina, pide un deseo por su noveno cumpleaños y al día siguiente los cuerpos de toda la familia se han intercambiado y el caos se ha apoderado de la familia. Ahora: ¿quién es quién?
+· País: España
+· Dirección: Hugo Martín Cuervo.
+· Reparto: Kira Miró, Gracia Olayo, Sofía Otero, Salva Reina, Carlos Areces, Gonzalo de Castro, Terelu Campos, Elena Irureta, Carlos Iglesias.
+· Guion: Irene Niubó.
+· Música: Iván Valdés.
+· Producción: Jaime Ortiz de Artiñano, Gonzalo Salazar-Simpson.</desc>
+  </programme>
+  <programme start="20250929120100 +0200" stop="20250929134700 +0200" channel="MCineEspaol">
+    <title lang="es">Los futbolísimos</title>
+    <desc lang="es">Cine,Comedia | 2018 | +TP | *7.6/10
+· Paco (alias 'Pakete' por su 'afición' a fallar penaltis) tiene 11 años, juega en el Sotoalto Fútbol Club y vive en un pueblo donde nunca ha pasado nada... hasta ahora.
+· País: España
+· Dirección: Miguel Ángel Lamata.
+· Reparto: Joaquín Reyes, Carmen Ruiz, Toni Acosta, Antonio Pagudo, Norma Ruiz, Julio Bohigas-Couto, Milene Mayer, Marcos Milara, Iker Castiñeira, Samantha Jaramillo, Roberto Rodríguez, Martina Cabrera, Daniel Crego, Jorge Usón, Gerald B. Fillmore.
+· Guion: Roberto Santiago, Pablo Fernández Vázquez, Miguel Ángel Lamata, Álvaro Ron.
+· Música: Fernando Velázquez.
+· Producción: Fernando de Miguel, Gustavo Ferrada, Mercedes Gamero, Mikel Lejarza, José Alberto Sánchez.
+· Productora: Atresmedia Cine, Chester Producciones, Wandermoon, Los futbolísimos.</desc>
+  </programme>
+  <programme start="20250929134700 +0200" stop="20250929155200 +0200" channel="MCineEspaol">
+    <title lang="es">Campeonex</title>
+    <desc lang="es">Cine,Comedia | 2023 | +TP | *6.6/10
+· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
+· País: España
+· Dirección: Javier Fesser.
+· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser.
+· Guion: David Marqués, Javier Fesser, Athenea Mata.
+· Música: Rafael Arnau.
+· Producción: Javier Fesser, Álvaro Longoria, Luis Manso.
+· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L.</desc>
+  </programme>
+  <programme start="20250929155200 +0200" stop="20250929174200 +0200" channel="MCineEspaol">
+    <title lang="es">Wolfgang</title>
+    <desc lang="es">Cine,Drama | 2025 | +7 | *7.6/10
+· Wolfgang tiene 10 años, un extraordinario cociente intelectual, un trastorno del espectro autista y una vida que acaba de ponerse patas arriba: su madre ha muerto y su última voluntad ha sido que Wolfgang vaya a vivir con su padre, al que no conoce.
+· País: España
+· Dirección: Javier Ruiz Caldera.
+· Reparto: Jordi Catalán, Miki Esparbé, Àngels Gonyalons, Berto Romero, Anna Castillo.
+· Guion: Laia Aguilar, Carmen Marfà, Yago Alonso, Valentina Viso.
+· Música: Clara Peya.
+· Producción: Marta Sánchez de Miguel, Gerard Verdaguer.
+· Productora: Nostromo Pictures, Lo vi Films.</desc>
+  </programme>
+  <programme start="20250929174200 +0200" stop="20250929193200 +0200" channel="MCineEspaol">
+    <title lang="es">Al otro barrio</title>
+    <desc lang="es">Cine,Comedia | 2024 | +13 | *6.2/10
+· Tras engañar a Hacienda (aprovechándose de una jugosa subvención por tener allí su sede), Andrés debe trasladar sus oficinas al barrio de Los Caños, situado en el extrarradio más marginal de la capital.
+· País: España
+· Dirección: Mar Olid.
+· Reparto: Quim Gutiérrez, Sara Sálamo, Javier Herrera, María de Nati, Hamza Zaidi, Jorge Suquet.
+· Guion: Daniel Monedero, Francisco Amal.
+· Música: Vanessa Garde.
+· Producción: Álvaro Augustín, Ghislain Barrois, Antonio Asensio.</desc>
+  </programme>
+  <programme start="20250929193200 +0200" stop="20250929213100 +0200" channel="MCineEspaol">
+    <title lang="es">Las chicas de la estación</title>
+    <desc lang="es">Cine,Drama | 2024 | +16 | *7.2/10
+· Jara quiere celebrar su cumpleaños junto a Álex y Miranda en el concierto de su artista preferida. Las tres necesitan dinero y apenas tienen opciones para conseguirlo. Pero conocen a una chica que hace tiempo les viene ofreciendo ganar dinero fácil.
+· País: España
+· Dirección: Juana Macías.
+· Reparto: Julieta Tobío, Salua Hadra, María Steelman, Arantxa Aranguren, La Fanny.
+· Guion: Isa Sánchez.
+· Música: Isabel Royán.
+· Productora: Feelgood Media.</desc>
+  </programme>
+  <programme start="20250929213100 +0200" stop="20250929220000 +0200" channel="MCineEspaol">
+    <title lang="es">Pipiolos</title>
+    <desc lang="es">Cortometrajes,Corto de comedia | 2025 | +13 | *7.0/10
+· Pilar e Isabel. Mario y Jaime. Dos madres. Dos hijos. Una nueva unidad familiar. Una nueva normalidad.
+· País: España
+· Dirección: Daniel Sánchez Arévalo.
+· Reparto: Marta Etura.</desc>
+  </programme>
+  <programme start="20250929220000 +0200" stop="20250929235900 +0200" channel="MCineEspaol">
+    <title lang="es">Daniela Forever</title>
+    <desc lang="es">Cine,Comedia romántica | 2024 | +13 | *6.6/10
+· Nicolás, un hombre hundido tras la muerte de su novia Daniela, cree encontrar un rayo de esperanza en un nuevo medicamento que permite controlar lo que se sueña. Gracias a él, Nicolás va a reanudar una relación cada vez más idílica.
+· País: Bélgica y España
+· Dirección: Nacho Vigalondo.
+· Reparto: Beatrice Grannò, Henry Golding.</desc>
+  </programme>
+  <programme start="20250929235900 +0200" stop="20250930013400 +0200" channel="MCineEspaol">
+    <title lang="es">Barcelona, noche de verano</title>
+    <desc lang="es">Cine,Comedia | 2013 | +TP | *6.2/10
+· La noche del 18 de agosto de 2013 el cometa Rose cruzó el cielo de la ciudad de Barcelona ofreciendo un espectáculo que no volverá a repetirse hasta dentro de varios siglos. Esa noche hubo 567 historias de amor. En esta película se cuentan 6 de ellas.
+· País: España
+· Dirección: Dani de la Orden.
+· Reparto: Àlex Monner, Luis Fernández, Joan Dausà, Sara Espígul, Jan Cornet, Francesc Colomer.
+· Guion: Daniel González, Eric Navarro, Eduard Solà.
+· Música: Joan Dausà.
+· Productora: Cameo, El Terrat, Filmin.</desc>
+  </programme>
+  <programme start="20250930013400 +0200" stop="20250930031700 +0200" channel="MCineEspaol">
+    <title lang="es">Katmandú, un espejo en el cielo</title>
+    <desc lang="es">Cine,Drama | 2011 | +TP | *6.6/10
+· A principios de la década de 1990, una joven maestra catalana se traslada a Katmandú, la capital de Nepal, como voluntaria en una escuela local. Pronto descubrirá una pobreza extrema y un panorama educativo desolador que deja fuera a los más necesitados.
+· País: España
+· Dirección: Icíar Bollaín.
+· Reparto: Verónica Echegui, Sumyata Battarai, Norbu Tsering Gurung, Kalsang Tamang, Bikram Pariyar.
+· Guion: Icíar Bollaín.
+· Música: Pascal Gaigne.
+· Productora: Canal+ España.</desc>
+  </programme>
+  <programme start="20250930031700 +0200" stop="20250930050400 +0200" channel="MCineEspaol">
+    <title lang="es">El otro lado de la cama</title>
+    <desc lang="es">Cine,Comedia | 2002 | +16 | *6.2/10
+· Sonia y Javier llevan varios años viviendo juntos y varios más siendo novios, pero Javier comienza una relación secreta con Paula, la novia de su mejor amigo.
+· País: España
+· Dirección: Emilio Martínez-Lázaro.
+· Reparto: Ernesto Alterio, Paz Vega, Willy Toledo, Natalia Verbeke, Alberto San Juan, María Esteve, Secun de la Rosa, Ramón Barea, Nathalie Poza.
+· Guion: David Serrano.
+· Música: Roque Baños.
+· Producción: Tomás Cimadevilla, José Antonio Sáinz de Vicuña.
+· Productora: Telespan 2000, Impala, S.A, Vía Digital, Tele 5.</desc>
+  </programme>
+  <programme start="20250930050400 +0200" stop="20250930064500 +0200" channel="MCineEspaol">
+    <title lang="es">Flores de otro mundo</title>
+    <desc lang="es">Cine,Drama | 1999 | +TP | *6.4/10
+· Una fiesta de solteros en un pequeño pueblo fuerza un encuentro con un grupo de mujeres que quieren formar una familia.
+· País: España
+· Dirección: Icíar Bollaín.
+· Reparto: José Sancho, Luis Tosar, Lissete Mejía, Elena Irureta, Marilyn Torres, Chete Lera, Amparo Valle.
+· Guion: Icíar Bollaín, Julio Llamazares.
+· Música: Pascal Gaigne.
+· Productora: Producciones La Iguana S.L, Alta Films S.A..</desc>
+  </programme>
+  <programme start="20250930064500 +0200" stop="20250930082000 +0200" channel="MCineEspaol">
+    <title lang="es">El desencanto</title>
+    <desc lang="es">Cine,Cine documental | 1976 | +18 | *7.0/10
+· La viuda y los hijos del poeta falangista Leopoldo Panero entrecruzan sus recuerdos hasta mostrar la hipocresía de unas relaciones familiares marcadas por la incomunicación, por la opresión y la crueldad del padre y por un odio soterrado hacia su figura.
+· País: España
+· Dirección: Jaime Chávarri.
+· Reparto: Leopoldo Panero, Felicidad Blanch, Mitzi Panero, Juan Panero.
+· Guion: Jaime Chávarri.
+· Producción: Elías Querejeta.
+· Productora: Elías Querejeta P.C..</desc>
+  </programme>
+  <programme start="20250930082000 +0200" stop="20250930095000 +0200" channel="MCineEspaol">
+    <title lang="es">La escopeta nacional</title>
+    <desc lang="es">Cine,Comedia | 1977 | +18 | *6.2/10
+· En la España de principios de los años 60, un industrial catalán organiza una cacería de perdices con la que intenta sobornar a miembros del Gobierno. Su objetivo es conseguir que le ayuden a introducir su firma de porteros automáticos por todo el país.
+· País: España
+· Dirección: Luis García Berlanga.
+· Reparto: Rafael Alonso, Luis Escobar, Antonio Ferrandis, Amparo Soler Leal, Mónica Randall, José Sazatornil 'Saza', Agustín González, José Luis López Vázquez, Laly Soldevila.
+· Guion: Rafael Azcona, Luis García Berlanga.
+· Producción: José Manuel M. Herrero.
+· Productora: Incine.</desc>
+  </programme>
+  <programme start="20250930095000 +0200" stop="20250930114000 +0200" channel="MCineEspaol">
+    <title lang="es">Asignatura pendiente</title>
+    <desc lang="es">Cine,Drama | 1977 | +7 | *7.0/10
+· Madrid, octubre de 1975. José, un abogado laboralista, reencuentra en el convulso Madrid del momento a Elena, su amor platónico de juventud, a la que conoció durante unas vacaciones de verano en el pueblo madrileño de Miraflores de la Sierra.
+· País: España
+· Dirección: José Luis Garci.
+· Reparto: José Sacristán, Fiorella Faltoyano, Antonio Gamero, Silvia Tortosa, Héctor Alterio, María Casanova, Simón Andreu.
+· Guion: José María González Sinde, José Luis Garci, José Mª González Sinde.
+· Música: Jesús Gluck.
+· Producción: José Luis Tafur.
+· Productora: José Luis Tafur P.C..</desc>
+  </programme>
+  <programme start="20250930114000 +0200" stop="20250930133100 +0200" channel="MCineEspaol">
+    <title lang="es">Patrimonio nacional</title>
+    <desc lang="es">Cine,Comedia | 1981 | +13 | *7.2/10
+· Al finalizar el régimen franquista, el Marqués de Leguineche pone fin a su autoexilio y regresa a su palacio de Madrid.
+· País: España
+· Dirección: Luis García Berlanga.
+· Reparto: Luis Ciges, Luis Escobar, Agustín González, José Luis López Vázquez, José Luis de Vilallonga, Jaime Chávarri, Amparo Soler Leal, Alfredo Mayo, José Lifante, Syliane Stella, Chus Lampreave.
+· Guion: Luis García Berlanga, Rafael Azcona.
+· Producción: Alfredo Matas.
+· Productora: In-Cine Compañía Industrial Cinematográfica, Jet Films.</desc>
+  </programme>
+  <programme start="20250930133100 +0200" stop="20250930151500 +0200" channel="MCineEspaol">
+    <title lang="es">Madregilda</title>
+    <desc lang="es">Cine,Drama | 1993 | +16 | *5.6/10
+· Madrid, años 40. El estreno de "Gilda" convulsiona a la reprimida sociedad, mientras Franco asiste a su habitual partida de mus.
+· País: Alemania, España y Francia
+· Dirección: Francisco Regueiro.
+· Reparto: José Sacristán, Juan Echanove, Barbara Auer, Kamel Chérif, Juan Luis Galiardo, Fernando Rey.
+· Guion: Ángel Fernández Santos, Francisco Regueiro.
+· Música: Jürgen Knieper.
+· Productora: Canal+ España, Centre National du Cinéma et de L'image Animée (CNC), Eurimages, Gémini Films, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Marea Films, Tornasol Films, Zweites Deutsches Fernsehen (ZDF).</desc>
+  </programme>
+  <programme start="20250930151500 +0200" stop="20250930165000 +0200" channel="MCineEspaol">
+    <title lang="es">Días contados</title>
+    <desc lang="es">Cine,Thriller | 1994 | +18 | *6.4/10
+· Antonio es un miembro de ETA que, escondido en un piso de Madrid y bajo la identidad falsa de un fotógrafo, prepara un atentado. Allí conoce a Charo, una joven drogadicta cuyo novio está a punto de salir de prisión y que se gana la vida prostituyéndose.
+· País: España
+· Dirección: Imanol Uribe.
+· Reparto: Carmelo Gómez, Ruth Gabriel, Javier Bardem, Karra Elejalde, Candela Peña, Elvira Mínguez, Pepón Nieto, Joseba Apaolaza, Pedro Casablanc.
+· Guion: Imanol Uribe.
+· Música: José Nieto.
+· Producción: Imanol Uribe, Andrés Santana.
+· Productora: Ariane Films España, Aiete Films, Sogepaq.</desc>
+  </programme>
+  <programme start="20250930165000 +0200" stop="20250930183900 +0200" channel="MCineEspaol">
+    <title lang="es">Jarrapellejos</title>
+    <desc lang="es">Cine,Drama | 1987 | +16 | *6.2/10
+· El hombre más poderoso de un pueblo abusa de su estatus para encubrir el crimen cometido contra una adolescente y su madre.
+· País: España
+· Dirección: Antonio Giménez Rico.
+· Reparto: Antonio Ferrandis, Juan Diego, Lydia Bosch, Aitana Sánchez-Gijón, Miguel Rellán, Florinda Chico, Joaquín Hinojosa, José Coronado, Amparo Larrañaga, Carlos Tristancho.
+· Guion: Antonio Giménez Rico, Manuel Gutiérrez Aragón, Felipe Trigo.
+· Música: Carmelo A. Bernaola.
+· Producción: José G. Blanco Sola, José Joaquín Aguirre.
+· Productora: Producciones Cinematográficas Penélope, Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250930183900 +0200" stop="20250930202600 +0200" channel="MCineEspaol">
+    <title lang="es">Los santos inocentes</title>
+    <desc lang="es">Cine,Drama | 1984 | +16 | *7.8/10
+· España franquista. Durante la década de los sesenta, una familia de campesinos vive miserablemente en un cortijo extremeño bajo la férula del terrateniente. Su vida es renuncia, sacrificio y obediencia.
+· País: España
+· Dirección: Mario Camus.
+· Reparto: Alfredo Landa, Francisco Rabal, Terele Pávez, Juan Diego, Ágata Lys, Agustín González, Mary Carrillo, Belén Ballesteros, Juan Sachez, Susana Sánchez.
+· Guion: Mario Camus, Manolo Matji, Antonio Larreta.
+· Música: Antón García Abril.
+· Producción: Julián Mateos.
+· Productora: Ganesh Producciones Cinematográficas, Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250930202600 +0200" stop="20250930220000 +0200" channel="MCineEspaol">
+    <title lang="es">La regenta</title>
+    <desc lang="es">Cine,Drama | 1974 | +18 | *6.2/10
+· La joven Ana Ozores, casada con Víctor Quintanar, ex Regente de Vetusta, es asediada por un ambicioso clérigo, Fermín de Pas, y por un vulgar conquistador, Alvaro Mesía.
+· País: España
+· Dirección: Gonzalo Suárez.
+· Reparto: Emma Penella, Nigel Davenport, Keith Baxter, Adolfo Marsillach, Rosario García Ortega, Maruchi Fresno, Agustín González, Pilar Bardem, María Luisa Ponte, Charo López, Mars.
+· Guion: Juan Antonio Porto.
+· Música: Angelo Francesco Lavagnino.
+· Producción: Emiliano Piedra.
+· Productora: Emiliano Piedra Producción.</desc>
+  </programme>
+  <programme start="20250930220000 +0200" stop="20250930235500 +0200" channel="MCineEspaol">
+    <title lang="es">¿Quién puede matar a un niño?</title>
+    <desc lang="es">Cine,Terror | 1976 | +16 | *7.2/10
+· Tom y Evelyn, una pareja de turistas ingleses, viajan a una tranquila isla de la costa española que Tom conoció cuando era joven. Sin embargo, al llegar allí, la isla parece desierta y pronto descubrirán que sus únicos habitantes son niños.
+· País: España
+· Dirección: Narciso Ibáñez Serrador.
+· Reparto: Lewis Fiander, Prunella Ransome, Antonio Iranzo, Miguel Narros, Luis Ciges, María Luisa Arias, Marisa Porcel.
+· Guion: Narciso Ibáñez Serrador.
+· Música: Waldo de los Ríos.
+· Producción: Manuel Salvador.
+· Productora: Penta Films.</desc>
+  </programme>
+  <programme start="20250930235500 +0200" stop="20251001001100 +0200" channel="MCineEspaol">
+    <title lang="es">Cólera</title>
+    <desc lang="es">Cortometrajes,Corto drama | 2025 | +13 | *6.8/10
+· Mejor Dirección en el 28 Festival de Málaga, biznaga de plata a a José Luis Lázaro.
+· País: España
+· Dirección: Jose Luis Lázaro.
+· Reparto: Nacho Fresneda, Jorge Motos, Manuel Canchal.</desc>
+  </programme>
+  <programme start="20251001001100 +0200" stop="20251001015200 +0200" channel="MCineEspaol">
+    <title lang="es">Don Juan, mi querido fantasma</title>
+    <desc lang="es">Cine,Comedia | 1990 | +TP | *6.0/10
+· Don Juan Tenorio sale de su tumba la misma noche en la que un actor está ensayando su inmortal obra en los escenarios.
+· País: España
+· Dirección: Antonio Mercero.
+· Reparto: Juan Luis Galiardo, María Barranco, Verónica Forqué, Rossy De Palma, Loles León, Vicente Díez, Rafael Álvarez \, Pedro Reyes, Antonio Gamero.
+· Guion: Joaquim Oristrell, Antonio Mercero.
+· Música: Bernardo Bonezzi.
+· Productora: BMG Films, Televisión Española (TVE), Productora Andaluza de Programas S.A.</desc>
+  </programme>
+  <programme start="20251001015200 +0200" stop="20251001034100 +0200" channel="MCineEspaol">
+    <title lang="es">Amanece, que no es poco</title>
+    <desc lang="es">Cine,Comedia | 1989 | +TP | *8.2/10
+· A un remoto pueblo manchego llegan un joven ingeniero español -profesor de la Universidad de Oklahoma en año sabático- y su padre, que le ha comprado a su hijo una moto con sidecar para compensarlo por haber matado a su madre.
+· País: España
+· Dirección: José Luis Cuerda.
+· Reparto: Antonio Resines, Luis Ciges, José Sazatornil 'Saza', Carmen de Lirio, Cassen, Manuel Alexandre.
+· Guion: José Luis Cuerda.
+· Música: José Nieto.
+· Producción: Jaime Borrell, Jose Miguel Juárez, Antonio Oliver.
+· Productora: Compañía de Aventuras Comerciales, TVE, Paraíso.</desc>
+  </programme>
+  <programme start="20251001034100 +0200" stop="20251001054000 +0200" channel="MCineEspaol">
+    <title lang="es">La vaquilla</title>
+    <desc lang="es">Cine,Comedia | 1985 | +13 | *6.4/10
+· Unos soldados republicanos deciden robar una vaquilla que tiene que ser toreada en una fiesta organizada por las tropas franquistas.
+· País: España
+· Dirección: Luis García Berlanga.
+· Reparto: Alfredo Landa, Guillermo Montesinos, Santiago Ramos, José Sacristán, Carles Velat, Adolfo Marsillach, Amparo Soler Leal.
+· Guion: Rafael Azcona, Luis García Berlanga.
+· Música: Miguel Asins Arbó.
+· Producción: Alfredo Matas.
+· Productora: Jet Films, In-Cine Compañía Industrial Cinematográfica S.A.</desc>
+  </programme>
+  <programme start="20251001054000 +0200" stop="20251001070000 +0200" channel="MCineEspaol">
+    <title lang="es">Pepi, Luci, Bom y otras chicas del montón</title>
+    <desc lang="es">Cine,Comedia | 1980 | +18 | *6.0/10
+· Luci, un ama de casa abnegada, Pepi, su vecina 'moderna, y la joven rockera Bom forman un trío disparatado que vive al ritmo desacompasado de la movida madrileña.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Carmen Maura, Félix Rotaeta, Alaska, Eva Siva, Kiti Mánver.
+· Guion: Pedro Almodóvar.
+· Producción: Pepón Coromina, Ester Rambal, Pastora Delgado.
+· Productora: Fígaro Films.</desc>
+  </programme>
+  <programme start="20251001070000 +0200" stop="20251001083500 +0200" channel="MCineEspaol">
+    <title lang="es">Nunca pasa nada</title>
+    <desc lang="es">Cine,Drama | 1963 | +18 | *6.6/10
+· La vedette de una compañía de revista es operada en un pequeño pueblo español. Su presencia allí conmueve a los vecinos.
+· País: España y Francia
+· Dirección: Juan Antonio Bardem.
+· Reparto: Corinne Marchand, Antonio Casas, Jean-Pierre Cassel, Julia Gutiérrez Caba, Alfonso Godá, José Franco, Rafael Bardem, Matilde Muñoz Sampedro, María Luisa Ponte.
+· Guion: Juan Antonio Bardem, Alfonso Sastre, Henry-François Rey.
+· Música: Georges Delerue.
+· Producción: Cesáreo González.
+· Productora: Cesáreo González Producciones Cinematográficas, Cocinor, Les Films Marceau.</desc>
+  </programme>
+  <programme start="20251001083500 +0200" stop="20251001101500 +0200" channel="MCineEspaol">
+    <title lang="es">El padre Coplillas</title>
+    <desc lang="es">Cine,Cine musical | 1968 | +TP | *6.2/10
+· Un párroco de un pueblo andaluz, aficionado al cante, actuará en televisión para poder mejorar la vida de los más necesitados.
+· País: España y Portugal
+· Dirección: Ramón Comas.
+· Reparto: Juanito Valderrama, Dolores Abril, José Bastida, Silvia Tortosa, Luís Cerqueira.
+· Guion: Ramón Comas.
+· Productora: Estudio 8, Sello Blanco.</desc>
+  </programme>
+  <programme start="20251001101500 +0200" stop="20251001115000 +0200" channel="MCineEspaol">
+    <title lang="es">Vente a Alemania, Pepe</title>
+    <desc lang="es">Cine,Comedia | 1971 | +16 | *7.0/10
+· Al pueblo de Paralejos de Arriba regresa Angelino, que llega de Múnich montado en un despampanante coche y contando maravillas sobre Alemania y sus mujeres. Su amigo Pepe, deslumbrado por lo que escucha, decide irse unos meses a trabajar allí.
+· País: España
+· Dirección: Pedro Lazaga.
+· Reparto: Alfredo Landa, José Sacristán, Tina Sáinz, Antonio Ferrandis, Gemma Cuervo, Fernando Guillén.
+· Guion: Vicente Escrivá, Vicente Coello.
+· Música: Antón García Abril.
+· Producción: Vicente Escrivá.
+· Productora: Aspa Producciones Cinematográficas S.A..</desc>
+  </programme>
+  <programme start="20251001115000 +0200" stop="20251001121000 +0200" channel="MCineEspaol">
+    <title lang="es">Carmela</title>
+    <desc lang="es">Cortometrajes,Corto animación | 2025 | +13 | *6.4/10
+· Biznaga de Plata al mejor cortometraje de animación en el Festival de Málaga 2025.
+· País: España
+· Dirección: Vicente Mallols.
+· Reparto: Empar Ferrer.
+· Guion: Helena Sánchez.
+· Producción: Vicente Mallols.</desc>
+  </programme>
+  <programme start="20251001121000 +0200" stop="20251001134000 +0200" channel="MCineEspaol">
+    <title lang="es">La niña de luto</title>
+    <desc lang="es">Cine,Comedia | 1964 | +TP | *5.4/10
+· Una pareja aplaza su boda varias veces por las sucesivas muertes en la familia de ella. El novio le pide una huida juntos.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Alfredo Landa, Manuel Summers, María José Alfonso, Vicky Lagos, Manuel Ayuso.
+· Guion: Pilar Miró, Manuel Summers, Tico Medina, Francisco Gómez, Bernardo Ballester.
+· Música: Antonio Pérez Olea.
+· Producción: Manuel Summers, Francisco Lara Polop.
+· Productora: Impala, S.A, Eco Films.</desc>
+  </programme>
+  <programme start="20251001134000 +0200" stop="20251001151500 +0200" channel="MCineEspaol">
+    <title lang="es">La Biblia en pasta</title>
+    <desc lang="es">Cine,Comedia | 1984 | +16 | *6.4/10
+· Una versión divertida y desenfadada sobre los hechos narrados en la Biblia. Los relatos se centran en Adán y Eva, Caín y Abel, El Diluvio Universal y la Torre de Babel.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Juan Muñoz, Alberto García, Emilio Fornet.</desc>
+  </programme>
+  <programme start="20251001151500 +0200" stop="20251001165500 +0200" channel="MCineEspaol">
+    <title lang="es">¡Sufre, mamón!</title>
+    <desc lang="es">Cine,Cine musical | 1987 | +TP | *6.4/10
+· Cuatro amigos fundan el grupo de rock Hombres G para competir contra el cantante más popular del colegio, Rocky Lacoste, que le ha robado la novia a uno de ellos.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Francisco Summers, David Summers, Javier Molina, Marta Madruga, Rafael Gutiérrez, Daniel Mezquita.
+· Guion: Tomás Summers, Francisco Summers, Manuel Summers.
+· Música: David Summers.
+· Producción: Francisco Lara Polop, Manuel Summers.
+· Productora: G. Producciones Cinematográficas, S.A, Polop P.C, Summers P.C.</desc>
+  </programme>
+  <programme start="20251001165500 +0200" stop="20251001184000 +0200" channel="MCineEspaol">
+    <title lang="es">El niño es nuestro</title>
+    <desc lang="es">Cine,Comedia | 1972 | +13 | *6.0/10
+· Una pareja de adolescentes tiene que luchar para que la sociedad no les arrebate a su bebé por ser menores de edad.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Maria Isabel Álvarez, Beatriz Galbó, Francisco Villa, Curro Martín Summers.
+· Guion: Manuel Summers.
+· Música: Antonio Pérez Olea.
+· Productora: Impala, Kalender Films International, S.A.</desc>
+  </programme>
+  <programme start="20251001184000 +0200" stop="20251001202000 +0200" channel="MCineEspaol">
+    <title lang="es">Ángeles gordos</title>
+    <desc lang="es">Cine,Comedia | 1980 | +16 | *6.0/10
+· Dos jóvenes con problemas de peso que mantienen corresponencia entre si deciden enviarse sus respectivas fotos. Ambos mienten y mandan las de amigos mucho más delgados.
+· País: Estados Unidos y España
+· Dirección: Manuel Summers.
+· Reparto: Farnham Scott, Amy Steel, Jack Aaron, January Stevens, Robert Reynolds.
+· Guion: Manuel Summers, Chumy Chúmez, Joe Gonzales.
+· Música: Bob Dorough.
+· Productora: Max Mambru Films, Impala, S.A.</desc>
+  </programme>
+  <programme start="20251001202000 +0200" stop="20251001220000 +0200" channel="MCineEspaol">
+    <title lang="es">Adiós, cigüeña, adiós</title>
+    <desc lang="es">Cine,Comedia | 1971 | +7 | *6.4/10
+· Una adolescente sin experiencia se queda embarazada en una excursión. Mientras ésta intenta disimular su estado ante sus padres, su pandilla se prepara para la llegada del bebé.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Beatriz Galbó, Maria Isabel Álvarez, Francisco Villa, Curro Martín Summers, Joaquín Goma, Maria Rosa Torrico, Alicia Peramó, Luis A. de la Peña.
+· Guion: Manuel Summers, Antonio de Lara.
+· Música: Antonio Pérez Olea.
+· Producción: Antonio Cuevas.
+· Productora: Impala, S.A, Kalender Films International, S.A.</desc>
+  </programme>
+  <programme start="20251001220000 +0200" stop="20251001233500 +0200" channel="MCineEspaol">
+    <title lang="es">Del rosa al amarillo</title>
+    <desc lang="es">Cine,Drama | 1963 | +13 | *6.2/10
+· Son dos historias de amor: la de dos niños que se separan en el verano y la de una pareja de ancianos que se aman en silencio.
+· País: España
+· Dirección: Manuel Summers.
+· Reparto: Cristina Galbó, Pedro D. Del Corral, José V. Cerrudo, Lina Onesti, María Corchero, Vicente Llosa, José Vicente Cerrudo, María Jesús Corchero, Juan Ramón de la Cuadra.
+· Guion: Manuel Summers.
+· Música: Antonio Pérez Olea.
+· Productora: Eco Films, Impala, S.A.</desc>
+  </programme>
+  <programme start="20251001233500 +0200" stop="20251002001500 +0200" channel="MCineEspaol">
+    <title lang="es">Estrellas del Festival de San Sebastián 2025</title>
+    <desc lang="es">Cine,Programa de cine | 2025 | +7 | *6.2/10
+· Desde la 73ª edición del Festival de San Sebastián os mostramos todas las estrellas que han pasado por el certamen, 9 días de cine con Jennifer Lawrence, Álvaro Morte, Bárbara Lennie, Eduard Fernández, Alba Flores, Antonio de la Torre o Leiva.
+· País: España
+· Presenta: Cristina Teva.</desc>
+  </programme>
+  <programme start="20251002001500 +0200" stop="20251002013500 +0200" channel="MCineEspaol">
+    <title lang="es">Furtivos</title>
+    <desc lang="es">Cine,Drama | 1975 | +18 | *6.6/10
+· Ángel vive dominado por su madre. Un día, pese a la oposición de ésta, se compromete con Milagros.
+· País: España
+· Dirección: José Luis Borau.
+· Reparto: Lola Gaos, Ovidi Montllor, Alicia Sánchez, Ismael Merlo, José Luis Borau, Felipe Solano.
+· Guion: José Luis Borau, Manuel Gutiérrez Aragón.
+· Música: Carmen Santonja, Gloria Van Aerssen.
+· Producción: José Luis Borau.
+· Productora: El Imán, Cine y Televisión, S.A.</desc>
+  </programme>
+  <programme start="20251002013500 +0200" stop="20251002031000 +0200" channel="MCineEspaol">
+    <title lang="es">El desencanto</title>
+    <desc lang="es">Cine,Cine documental | 1976 | +18 | *7.2/10
+· La viuda y los hijos del poeta falangista Leopoldo Panero entrecruzan sus recuerdos hasta mostrar la hipocresía de unas relaciones familiares marcadas por la incomunicación, por la opresión y la crueldad del padre y por un odio soterrado hacia su figura.
+· País: España
+· Dirección: Jaime Chávarri.
+· Reparto: Leopoldo Panero, Felicidad Blanch, Mitzi Panero, Juan Panero.
+· Guion: Jaime Chávarri.
+· Producción: Elías Querejeta.
+· Productora: Elías Querejeta P.C..</desc>
+  </programme>
+  <programme start="20251002031000 +0200" stop="20251002043000 +0200" channel="MCineEspaol">
+    <title lang="es">El pisito</title>
+    <desc lang="es">Cine,Comedia | 1958 | +TP | *7.0/10
+· Rodolfo y Petrita llevan 12 años de relación y no encuentran un piso en el que formar una familia. Rodolfo es realquilado de la anciana doña Martina, que está en el punto de mira de su casero, que quiere la vivienda libre para poder derribar el edificio.
+· País: España
+· Dirección: Marco Ferreri, Isidoro M. Ferry.
+· Reparto: Mary Carrillo, José Luis López Vázquez, Concha López Silva, Ángel Álvarez, María Luisa Ponte, Andrea Moro, Gregorio Saugar, Celia Conde.
+· Guion: Marco Ferreri, Rafael Azcona.
+· Música: Federico Contreras.
+· Producción: Isidoro M. Ferry.
+· Productora: Documento Films.</desc>
+  </programme>
+  <programme start="20251002043000 +0200" stop="20251002060500 +0200" channel="MCineEspaol">
+    <title lang="es">El golfo</title>
+    <desc lang="es">Cine,Comedia | 1968 | +TP | *5.4/10
+· Un ladronzuelo se gana la vida sacándole dinero a las turistas de Acapulco. En esas playas recala una ejecutiva estresada y aburrida que será victima de este don Juan.
+· País: España y México
+· Dirección: Vicente Escrivá.
+· Reparto: Raphael, Shirley Jones, Pedro Armendariz Jr..
+· Guion: Vicente Escrivá.
+· Música: Manuel Alejandro.
+· Productora: Aspa Producciones Cinematográficas.</desc>
+  </programme>
+  <programme start="20251002060500 +0200" stop="20251002070000 +0200" channel="MCineEspaol">
+    <title lang="es">Lola: Ni canta, ni baila</title>
+    <desc lang="es">Documentales,Música | 2021 | +13 | *7.4/10
+· Los primeros años de la carrera y la vida de Lola Flores, sus primeros años en Jerez de la Frontera, donde nace, su primera oportunidad con la película 'Martingala', sus años con Manolo Caracol y su gran oportunidad, su primera gira por América.
+· País: España
+· Dirección: Israel del Santo.</desc>
+  </programme>
+  <programme start="20251002070000 +0200" stop="20251002081500 +0200" channel="MCineEspaol">
+    <title lang="es">Leo Harlem. 20 años no es nada</title>
+    <desc lang="es">Entretenimiento | 2022 | +13 | *8.0/10
+· Homenaje a la carrera artística de Leo Harlem, con motivo de sus 20 años dedicados a la comedia. Un monólogo autobiográfico donde el artista comparte anécdotas de su vida, desde la infancia hasta alcanzar el éxito como cómico.
+· País: España
+· Presenta: Leo Harlem.
+· Productora: Movistar+.</desc>
+  </programme>
+  <programme start="20251002081500 +0200" stop="20251002094000 +0200" channel="MCineEspaol">
+    <title lang="es">Agítese antes de usarla</title>
+    <desc lang="es">Cine,Comedia | 1983 | +18 | *6.4/10
+· A dos estafadores que sólo buscan ganar dinero fácil y ligar con cualquier mujer que se les ponga a tiro, se les presenta la oportunidad de su vida en una clínica al borde de la quiebra.
+· País: España
+· Dirección: Mariano Ozores.
+· Reparto: Andrés Pajares, Fernando Esteso, Antonio Ozores, Alfonso del Real, Jenny Llada, Adrián Ortega, Arévalo.
+· Guion: Mariano Ozores.
+· Música: Gregorio García Segura.
+· Productora: Ízaro Films.</desc>
+  </programme>
+  <programme start="20251002094000 +0200" stop="20251002110500 +0200" channel="MCineEspaol">
+    <title lang="es">Mujeres al borde de un ataque de nervios</title>
+    <desc lang="es">Cine,Comedia | 1988 | +TP | *6.8/10
+· Iván y Pepa, una pareja de actores de doblaje, rompen su relación sin que él sepa que ella está embarazada. Pepa espera en vano noticias de Iván y, mientras tanto, trata de habituarse como puede a su nueva situación.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Carmen Maura, Antonio Banderas, Julieta Serrano, María Barranco, Rossy De Palma, Kiti Mánver, Guillermo Montesinos, Chus Lampreave, Fernando Guillén.
+· Guion: Pedro Almodóvar.
+· Música: Bernardo Bonezzi.
+· Producción: Pedro Almodóvar, Agustín Almodóvar.
+· Productora: El Deseo.</desc>
+  </programme>
+  <programme start="20251002110500 +0200" stop="20251002123500 +0200" channel="MCineEspaol">
+    <title lang="es">Perdona bonita, pero Lucas me quería a mí</title>
+    <desc lang="es">Cine,Comedia | 1996 | +16 | *6.4/10
+· Carlos, Dani y Toni son tres homosexuales sin blanca que comparten piso en Madrid. Ante los apuros económicos que sufren deciden alquilar una habitación a Lucas, un joven apuesto de pelo largo, amplia sonrisa y un cuerpo de escándalo.
+· País: España
+· Dirección: Félix Sabroso, Dunia Ayaso.
+· Reparto: Jordi Mollà, Pepón Nieto, Roberto Correcher, Lucina Gil, Alonso Caparrós, María Pujalte, Gracia Olayo, Ferran Rañé.
+· Guion: Dunia Ayaso, Félix Sabroso.
+· Música: Manuel Villalta.
+· Productora: Canal+ España, Cristal Producciones Cinematográficas, S.A, Sociedad General de Televisión S.A. (Sogetel).</desc>
+  </programme>
+  <programme start="20251002123500 +0200" stop="20251002142500 +0200" channel="MCineEspaol">
+    <title lang="es">La comunidad</title>
+    <desc lang="es">Cine,Comedia | 2000 | +13 | *7.2/10
+· Julia, que trabaja en una agencia inmobiliaria, encuentra 300 millones de pesetas escondidos en una casa cuyo inquilino ha muerto. El problema es que toda la comunidad de propietarios sabe que su vecino tenía ese dinero y sueña con repartirse el botín.
+· País: España
+· Dirección: Álex de la Iglesia.
+· Reparto: Carmen Maura, Eduardo Antuña, María Asquerino, Jesús Bonilla, Sancho Gracia, Emilio Gutiérrez Caba, Marta Fernández-Muro, Terele Pávez, Kiti Mánver, Manuel Tejada, Paca Gabaldón, Ramón Barea, Mariví Bilbao, Antonio de la Torre, Luis Tosar, Rodolfo Sancho, Aitor Mazo.
+· Guion: Álex de la Iglesia, Jorge Guerricaechevarría.
+· Música: Roque Baños.
+· Producción: Andrés Vicente Gómez.
+· Productora: Lolafilms S.A., Vía Digital.</desc>
+  </programme>
+  <programme start="20251002142500 +0200" stop="20251002144500 +0200" channel="MCineEspaol">
+    <title lang="es">Sexo a los 70</title>
+    <desc lang="es">Cortometrajes,Corto de comedia | 2025 | +13 | *6.8/10
+· Marga, una viuda atrapada en la monotonía, se sorprende cuando su nieta le organiza una cita a través de una app, haciéndose pasar por ella.
+· País: España
+· Dirección: Vanesa Romero.
+· Reparto: Mamen García, Fernando Colomo.</desc>
+  </programme>
+  <programme start="20251002144500 +0200" stop="20251002163500 +0200" channel="MCineEspaol">
+    <title lang="es">La estanquera de Vallecas</title>
+    <desc lang="es">Cine,Comedia | 1987 | +13 | *7.6/10
+· Leandro, un albañil en paro, y su amigo Tocho entran en un estanco del barrio madrileño de Vallecas con intención de dar un atraco, pero la inesperada reacción de la señora Justa, la estanquera, se lo impide.
+· País: España
+· Dirección: Eloy de la Iglesia.
+· Reparto: Emma Penella, José Luis Gómez, José Luis Manzano, Maribel Verdú, Fernando Guillén, Jesús Puente, Antonio Gamero, Antonio Iranzo, Pedro Nieva Parola, Tina Sáinz, Chari Moreno.
+· Guion: José Luis Alonso de Santos, Gonzalo Goicoechea, Eloy de la Iglesia.
+· Música: Patxi Andión.
+· Producción: Ángel Huete.
+· Productora: Compañía Iberoamericana de TV, Ministerio de Cultura, Televisión Española (TVE), Ega Medios Audiovisuales.</desc>
+  </programme>
+  <programme start="20251002163500 +0200" stop="20251002182900 +0200" channel="MCineEspaol">
+    <title lang="es">Carreteras secundarias</title>
+    <desc lang="es">Cine,Drama | 1997 | +16 | *6.2/10
+· Un hombre y su hijo viajan por las carreteras españolas de 1974. El primero es un hombre fracasado que sueña con hacer el gran negocio de su vida. El segundo es un adolescente sólo preocupado por perder la virginidad.
+· País: España
+· Dirección: Emilio Martínez-Lázaro.
+· Reparto: Antonio Resines, Fernando Ramallo, Maribel Verdú, Míriam Díaz Aroca, Jesús Bonilla, Montserrat Carulla.
+· Guion: Ignacio Martínez de Pisón.
+· Música: Roque Baños.
+· Producción: Ana Huete.
+· Productora: Fernando Trueba, Producciones Cinematográficas, S.A, Sogetel.</desc>
+  </programme>
+  <programme start="20251002182900 +0200" stop="20251002201300 +0200" channel="MCineEspaol">
+    <title lang="es">La buena estrella</title>
+    <desc lang="es">Cine,Drama | 1997 | +16 | *6.8/10
+· La existencia de Rafael está marcada por la automarginación desde que un accidente de trabajo lo dejó sin testículos. Su vida parece cambiar con la llegada de Marina, una joven a la que recoge de la calle cuando su novio le está dando una paliza.
+· País: España, Francia e Italia
+· Dirección: Ricardo Franco.
+· Reparto: Antonio Resines, Maribel Verdú, Jordi Mollà, Elvira Mínguez, Ramón Barea.
+· Guion: Ricardo Franco, Ángeles González Sinde.
+· Música: Eva Gancedo.
+· Producción: Enrique Cerezo, Pedro Costa.
+· Productora: Enrique Cerezo Producciones Cinematográficas S.A, Eurimages, GA&amp;A Productions, Mat Films, Pedro Costa Producciones Cinematográficas S.A, Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251002201300 +0200" stop="20251002220000 +0200" channel="MCineEspaol">
+    <title lang="es">El año de las luces</title>
+    <desc lang="es">Cine,Drama | 1986 | +16 | *6.2/10
+· En la primavera de 1940, dos muchachos con síntomas de tuberculosis son enviados a un sanatorio dirigido por miembros de Falange y de la Sección Femenina. Durante su estancia allí, Manolo, el mayor de los dos, vive su despertar sexual.
+· País: España
+· Dirección: Fernando Trueba.
+· Reparto: Jorge Sanz, Maribel Verdú, Verónica Forqué, Manuel Alexandre, Rafaela Aparicio, Santiago Ramos, Chus Lampreave, José Sazatornil 'Saza'.
+· Guion: Manuel Huete, Fernando Trueba, Rafael Azcona, Manolo Huete.
+· Música: Francisco Guerrero.
+· Producción: Andrés Vicente Gómez.
+· Productora: Iberoamericana Films Producción S.A..</desc>
+  </programme>
+  <programme start="20251002220000 +0200" stop="20251002234500 +0200" channel="MCineEspaol">
+    <title lang="es">Amantes</title>
+    <desc lang="es">Cine,Drama | 1991 | +18 | *6.6/10
+· Madrid, 1955. Al terminar el servicio militar, un joven decide no volver a su pueblo y establecerse en la capital para casarse con la hija de su comandante. Pronto encuentra alojamiento en casa de una atractiva viuda que se gana la vida como estafadora.
+· País: España
+· Dirección: Vicente Aranda.
+· Reparto: Jorge Sanz, Victoria Abril, Maribel Verdú, Enrique Cerro, Mabel Escaño.
+· Guion: Vicente Aranda, Álvaro del Amo, Carlos Pérez Merinero.
+· Música: José Nieto.
+· Productora: Pedro Costa Producciones Cinematográficas S.A, Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251002234500 +0200" stop="20251003000000 +0200" channel="MCineEspaol">
+    <title lang="es">Mi amiga Eva. Los juegos del amor</title>
+    <desc lang="es">Cine,Programa de cine | 2025 | +7 | *5.8/10
+· Mi amiga Eva. Los juegos del amor.
+· País: España</desc>
+  </programme>
+  <programme start="20251003000000 +0200" stop="20251003020500 +0200" channel="MCineEspaol">
+    <title lang="es">La noche de los girasoles</title>
+    <desc lang="es">Cine,Thriller | 2006 | +16 | *6.8/10
+· Pedro y Esteban viajan a Ávila para estudiar una cueva descubierta en una zona montañosa. Los acompaña Gabi, la novia de Esteban, que los espera al pie de la montaña. Cuando salen de la cueva, Gabi está aterrorizada: ha estado a punto de ser violada.
+· País: España, Francia, Italia y Portugal
+· Dirección: Jorge Sánchez-Cabezudo.
+· Reparto: Carmelo Gómez, Judith Diakhate, Celso Bugallo, Manuel Morón, Mariano Alameda Hernando, Vicente Romero, Walter Vidarte.
+· Guion: Jorge Sánchez-Cabezudo.
+· Música: Krishna Levy.
+· Producción: Enrique González Macho.
+· Productora: Alta Films S.A., Film, The.</desc>
+  </programme>
+  <programme start="20251003020500 +0200" stop="20251003041000 +0200" channel="MCineEspaol">
+    <title lang="es">Sólo quiero caminar</title>
+    <desc lang="es">Cine,Drama | 2008 | +18 | *6.6/10
+· Un espectacular atraco llevado a cabo por cuatro mujeres movidas por el afán de venganza, en una trama de mafiosos en México y España que conjuga poder, deseo y dinero.
+· País: España y México
+· Dirección: Agustín Díaz Yanes.
+· Reparto: Diego Luna, Victoria Abril, Ariadna Gil, Pilar López de Ayala, Elena Anaya, Dagoberto Gama.
+· Guion: Agustín Díaz Yanes.
+· Música: Javier Limón.
+· Productora: Boomerang TV.</desc>
+  </programme>
+  <programme start="20251003041000 +0200" stop="20251003055500 +0200" channel="MCineEspaol">
+    <title lang="es">Matador</title>
+    <desc lang="es">Cine,Thriller | 1986 | +18 | *6.6/10
+· El que fuera famoso matador de toros Diego Montes sigue manteniendo su afición enseñando a jóvenes aspirantes el arte del toreo, sobre todo la llamada 'suerte suprema': la de matar. La muerte es la obsesión de Montes.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Assumpta Serna, Antonio Banderas, Nacho Martínez, Eva Cobo, Julieta Serrano, Chus Lampreave, Carmen Maura, Eusebio Poncela, Bibi Andersen, Luis Ciges, Verónica Forqué.
+· Guion: Pedro Almodóvar, Jesús Ferrero.
+· Música: Bernardo Bonezzi.
+· Producción: Andrés Vicente Gómez.
+· Productora: Compañía Iberoamericana de TV, Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251003055500 +0200" stop="20251003063000 +0200" channel="MCineEspaol">
+    <title lang="es">Extraña forma de vida</title>
+    <desc lang="es">Cine,Oeste | 2023 | +13 | *6.2/10
+· Hace veinticinco años, el 'sheriff' Jake y el vaquero Silva vivieron unos días cargados de deseo y sensualidad. Sin embargo, el motivo de este encuentro no es solo revivir su pasado.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Pedro Pascal, Ethan Hawke, Manu Ríos.
+· Guion: Pedro Almodóvar.
+· Música: Alberto Iglesias.
+· Productora: El Deseo.</desc>
+  </programme>
+  <programme start="20251003063000 +0200" stop="20251003081000 +0200" channel="MCineEspaol">
+    <title lang="es">Menudas piezas</title>
+    <desc lang="es">Cine,Comedia | 2024 | +13 | *6.4/10
+· A Candela le han sido infiel, la han despedido de su trabajo en un colegio privado y ahora no le queda más remedio que pedir ayuda a su hermana y a su padre, esos a los que lleva años mirando por encima del hombro.
+· País: España
+· Dirección: Nacho G. Velilla.
+· Reparto: Alexandra Jiménez, Luis Callejo, Francesc Orella, María Adánez, Kiko Bena, Verónica Senra, Rocío Velayos, Pablo Louazel.
+· Guion: David S. Olivas, Marta Sánchez Guillén, Nacho G. Velilla.
+· Música: Juanjo Javierre.
+· Producción: Ghislain Barrois, Álvaro Augustín.
+· Productora: Telecinco Cinema, Menudas piezas, A.I.E..</desc>
+  </programme>
+  <programme start="20251003081000 +0200" stop="20251003094000 +0200" channel="MCineEspaol">
+    <title lang="es">+Cuñados</title>
+    <desc lang="es">Cine,Comedia | 2024 | +13 | *6.0/10
+· Dos años después de la detención de Alicia y su socio portugués, los cuñados viven tranquilamente blanqueando el dinero que (literalmente) les cayó del cielo. Sin embargo, cuando la novia del portugués aparece en busca de venganza, los líos comienzan.
+· País: España
+· Dirección: Luis Avilés Baquero.
+· Reparto: Xosé A. Touriñán, Miguel de Lira, Federico Pérez Rey, María Vázquez, Eva Fernández, Iolanda Muíños, Mela Casal.
+· Guion: Araceli Gonda.
+· Música: Iván Laxe, Santi Jul.
+· Productora: Portocabo TV.</desc>
+  </programme>
+  <programme start="20251003094000 +0200" stop="20251003113000 +0200" channel="MCineEspaol">
+    <title lang="es">UnCancelled</title>
+    <desc lang="es">Cine,Comedia romántica | 2024 | +7 | *6.4/10
+· La actriz María y el cineasta Luke viajaron de Los Ángeles a España en marzo de 2020 para casarse. La pandemia les hizo cancelar la boda y les obligó a encerrarse con la madre de Luke, Karen. Luke lo filmó todo y lo colgó en Internet como una serie.
+· País: Australia y España
+· Dirección: Luke Eve.
+· Reparto: Luke Eve, María Albiñana.
+· Guion: Luke Eve, María Albiñana.
+· Música: Claire Deak.
+· Producción: Luke Eve, María Albiñana.
+· Productora: More Sauce Productions, EOC Producciones Cinematográficas.</desc>
+  </programme>
+  <programme start="20251003113000 +0200" stop="20251003130500 +0200" channel="MCineEspaol">
+    <title lang="es">Rita</title>
+    <desc lang="es">Cine,Drama | 2024 | +13 | *6.6/10
+· Sevilla, junio de 1984. Comienzan las vacaciones de verano para Rita y Lolo, dos hermanos de 7 y 5 años, hijos de una sencilla familia obrera que empiezan a ver, sobre todo Rita, que en su familia algo va mal.
+· País: España
+· Dirección: Paz Vega.
+· Reparto: Sofía Allepuz, Alejandro Escamilla, Paz Vega, Roberto Álamo.
+· Guion: Paz Vega.
+· Música: Pablo Cervantes.
+· Producción: Gonzalo Bendala, Marta Velasco.
+· Productora: Rita la película, A.I.E., Áralan Films S.L.</desc>
+  </programme>
+  <programme start="20251003130500 +0200" stop="20251003144500 +0200" channel="MCineEspaol">
+    <title lang="es">¿Quién es quién?</title>
+    <desc lang="es">Cine,Comedia | 2024 | +7 | *6.2/10
+· Los Fuentes salta por los aires el día que la benjamina del grupo, Valentina, pide un deseo por su noveno cumpleaños y al día siguiente los cuerpos de toda la familia se han intercambiado y el caos se ha apoderado de la familia. Ahora: ¿quién es quién?
+· País: España
+· Dirección: Hugo Martín Cuervo.
+· Reparto: Kira Miró, Gracia Olayo, Sofía Otero, Salva Reina, Carlos Areces, Gonzalo de Castro, Terelu Campos, Elena Irureta, Carlos Iglesias.
+· Guion: Irene Niubó.
+· Música: Iván Valdés.
+· Producción: Jaime Ortiz de Artiñano, Gonzalo Salazar-Simpson.</desc>
+  </programme>
+  <programme start="20251003144500 +0200" stop="20251003162000 +0200" channel="MCineEspaol">
+    <title lang="es">Un lío de millones</title>
+    <desc lang="es">Cine,Comedia | 2024 | +7 | *6.6/10
+· Bego y Agustín, un matrimonio jubilado, idean un arriesgado plan para reunirse con sus hijos distanciados fingiendo haber ganado la lotería y ser millonarios, esperando que así regresen a casa.
+· País: España
+· Dirección: Susan Béjar.
+· Reparto: Gracia Olayo, Antonio Resines, Clara Lago, Alberto Olmo, Lucía Caraballo.
+· Guion: Ángela Armero.
+· Música: Vanessa Garde.
+· Productora: Tornasol Media.</desc>
+  </programme>
+  <programme start="20251003162000 +0200" stop="20251003180000 +0200" channel="MCineEspaol">
+    <title lang="es">Verano en diciembre</title>
+    <desc lang="es">Cine,Comedia dramática | 2024 | +13 | *6.6/10
+· Tres hermanas coinciden con su madre y su abuela en una reunión familiar para conmemorar el aniversario de la muerte del padre. Las personalidades opuestas de todos harán que choquen entre sí y afloren sus frustraciones, miedos y anhelos.
+· País: España
+· Dirección: Carolina África.
+· Reparto: Carmen Machi, Bárbara Lennie, Victoria Luengo.
+· Guion: Carolina África.
+· Productora: Crea SGR.</desc>
+  </programme>
+  <programme start="20251003180000 +0200" stop="20251003195500 +0200" channel="MCineEspaol">
+    <title lang="es">Wolfgang</title>
+    <desc lang="es">Cine,Drama | 2025 | +7 | *7.6/10
+· Wolfgang tiene 10 años, un extraordinario cociente intelectual, un trastorno del espectro autista y una vida que acaba de ponerse patas arriba: su madre ha muerto y su última voluntad ha sido que Wolfgang vaya a vivir con su padre, al que no conoce.
+· País: España
+· Dirección: Javier Ruiz Caldera.
+· Reparto: Jordi Catalán, Miki Esparbé, Àngels Gonyalons, Berto Romero, Anna Castillo.
+· Guion: Laia Aguilar, Carmen Marfà, Yago Alonso, Valentina Viso.
+· Música: Clara Peya.
+· Producción: Marta Sánchez de Miguel, Gerard Verdaguer.
+· Productora: Nostromo Pictures, Lo vi Films.</desc>
+  </programme>
+  <programme start="20251003195500 +0200" stop="20251003213500 +0200" channel="MCineEspaol">
+    <title lang="es">Los pequeños amores</title>
+    <desc lang="es">Cine,Drama | 2024 | +7 | *6.2/10
+· Teresa cambia sus planes de vacaciones para ayudar a su madre, que ha sufrido un pequeño accidente. Madre e hija pasarán juntas un verano de lo más sofocante, en el que no conseguirán ponerse de acuerdo ni en las cosas más triviales.
+· País: España
+· Dirección: Celia Rico Clavellino.
+· Reparto: María Vázquez, Adriana Ozores, Aimar Vega, David Aguilar.
+· Guion: Celia Rico Clavellino.
+· Producción: Sandra Tapia, Ibón Cormenzana.
+· Productora: Viracocha Films, A.I.E., Arcadia Motion Pictures.</desc>
+  </programme>
+  <programme start="20251003213500 +0200" stop="20251003220000 +0200" channel="MCineEspaol">
+    <title lang="es">Antes de las Seis</title>
+    <desc lang="es">Cortometrajes,Corto drama | 2025 | +7 | *6.0/10
+· Enrique, un hombre de negocios atrapado entre la exigencia de su jefe y la amenaza constante del despido, solo tiene una misión: entregar unos documentos cruciales antes de las seis de la tarde. Parece sencillo… hasta que empieza a no serlo.
+· País: España
+· Dirección: Aline López, Gemma Morcillo.</desc>
+  </programme>
+  <programme start="20251003220000 +0200" stop="20251003235500 +0200" channel="MCineEspaol">
+    <title lang="es">Salve María</title>
+    <desc lang="es">Cine,Thriller | 2024 | +16 | *6.4/10
+· María, una madre primeriza, se topa con la terrible noticia de una mujer que ha ahogado a sus gemelos de 10 meses. A partir de ese momento, María se obsesiona con el suceso: ¿por qué una madre haría eso?
+· País: España
+· Dirección: Mar Coll.
+· Reparto: Laura Weissmahr, Oriol Pla, Giannina Fruttero, Magali Heu, Sam Avtaev.
+· Guion: Mar Coll, Valentina Viso.
+· Música: Zeltia Montes.
+· Producción: Sergi Casamitjana, María Zamora.
+· Productora: Escándalo Films, Elástica Films.</desc>
+  </programme>
+  <programme start="20251003235500 +0200" stop="20251004012500 +0200" channel="MCineEspaol">
+    <title lang="es">Caída libre</title>
+    <desc lang="es">Cine,Thriller | 2024 | +13 | *6.4/10
+· Marisol siempre tiene todo bajo control: en su trabajo como entrenadora olímpica de gimnasia rítmica es muy exigente y, en su vida personal está obsesionada con cualquier detalle. Pero, cuando las cosas comienzan a irle mal su autodestrucción estalla.
+· País: España
+· Dirección: Laura Jou.
+· Reparto: Belén Rueda, Mariia Netavrovana, Irene Escolar, Ilay Kurelovic, Manuela Vellés.
+· Guion: Bernat Vilaplana.
+· Música: Clara Peya.
+· Producción: J.A. Bayona, Belén Atienza.
+· Productora: Ejercicios de equilibrio, A.I.E., Corte y Confección de Películas.</desc>
+  </programme>
+  <programme start="20251004012500 +0200" stop="20251004024000 +0200" channel="MCineEspaol">
+    <title lang="es">El callejón</title>
+    <desc lang="es">Cine,Terror | 2011 | +13 | *5.6/10
+· Durante una noche invernal, Rosa se ve obligada a hacer la colada en una lavandería situada en un oscuro y desierto callejón. Allí sufrirá el acoso de un asesino en serie que la someterá al sádico juego del ratón y el gato.
+· País: Colombia y España
+· Dirección: Antonio Trashorras.
+· Reparto: Ana de Armas, Diego Cadavid, Leonor Varela, Judith Diakhate, Alfonso Rojas.</desc>
+  </programme>
+  <programme start="20251004024000 +0200" stop="20251004042000 +0200" channel="MCineEspaol">
+    <title lang="es">Los sin nombre</title>
+    <desc lang="es">Cine,Terror | 1999 | +18 | *6.2/10
+· Una llamada telefónica sacude la vida de una madre que inicia la búsqueda de su hija, a quien creía asesinada tiempo atrás.
+· País: España
+· Dirección: Jaume Balagueró.
+· Reparto: Karra Elejalde, Tristán Ulloa, Toni Sevilla, Emma Vilarasau, Jordi Dauder, Pep Tosar, Carlos Lasarte, Jessica Del Pozo.
+· Guion: Ramsey Campbell, Jaume Balagueró.
+· Música: Carles Cases.
+· Producción: Julio Fernández, Joan Ginard.
+· Productora: Filmax, P.C. Joan Ginard.</desc>
   </programme>
 </tv>
