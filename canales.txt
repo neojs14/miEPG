@@ -1,6 +1,32 @@
-La 1 HD,La1HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
+La 1 HD,La1HD
+La 2,La2
+Antena 3 HD,Antena3HD
+Cuatro HD,CuatroHD
+Telecinco HD,TelecincoHD
+La Sexta HD,LaSextaHD
+Movistar Plus+ HD,MovistarPlusHD
 M+ Vamos HD,MVamosHD
 M+ Estrenos HD,MEstrenosHD
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 M+ Hits HD,MHitsHD
 M+ Originales HD,MOriginalesHD
+M+ Documentales HD,MDocumentalesHD
+M+ Clásicos HD,MClsicosHD
+M+ Acción HD,MAccinHD
+M+ Comedia HD,MComediaHD
+M+ Drama HD,MDramaHD
+M+ Indie HD,MIndieHD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
